@@ -1,0 +1,72 @@
+nct_id,disease_area,strategy,need_ids,role,map_eligible,whitespace_relevant,crowding_unit,asset_name,company_name,linked_program_id,review_status,review_notes
+NCT01851694,cf,metabolic_cfrd,N5,supportive,0,0,0,Incretin hormone physiology in CF,, ,reviewed,Heuristic false positive: title is CF/CFRD research; summary language triggered the NCFB flag. Not a product candidate.
+NCT05860803,ncfb,care_delivery,,not_cf_primary,0,0,0,Breathing training in non-CF bronchiectasis,,,reviewed,Non-CF bronchiectasis. Exclude from CF map.
+NCT06242795,ncfb,mucociliary_clearance,,not_cf_primary,0,0,0,Hypertonic saline in NCFB,,,reviewed,Non-CF bronchiectasis. Exclude from CF map.
+NCT06487273,ncfb,mucociliary_clearance,,not_cf_primary,0,0,0,SIMEOX device in NCFB,,,reviewed,Non-CF bronchiectasis device study. Exclude from CF map.
+NCT06559150,ncfb,anti_inflammatory,,not_cf_primary,0,0,0,Ensifentrine,Verona Pharma,,reviewed,NCFB Phase 2. Do not treat as CF anti-inflammatory crowding.
+NCT06603246,mixed_muco_obstructive,mucociliary_clearance,,not_cf_primary,0,0,0,GDC-6988,Genentech / Roche,,reviewed,Muco-obstructive disease basket; not a CF-specific program.
+NCT06660992,ncfb,anti_inflammatory,,not_cf_primary,0,0,0,HSK31858,,,reviewed,NCFB DPP1-class candidate. Exclude from CF map.
+NCT06663176,ncfb,antimicrobial,,not_cf_primary,0,0,0,RESP30X nitric oxide,,,reviewed,NCFB with Pseudomonas. Exclude from CF map.
+NCT06775340,ncfb,anti_inflammatory,,not_cf_primary,0,0,0,RSS0343,,,reviewed,NCFB. Exclude from CF map.
+NCT06981091,ncfb,other,,not_cf_primary,0,0,0,,,,reviewed,Industry NCFB-flagged trial. Exclude from CF map.
+NCT07048262,ncfb,antimicrobial,,not_cf_primary,0,0,0,CSL787,CSL,,reviewed,NCFB inhaled biologic. Exclude from CF map.
+NCT07274020,ncfb,antimicrobial,,not_cf_primary,0,0,0,Moxifloxacin in bronchiectasis,,,reviewed,Bronchiectasis not CF-specific. Exclude from CF map.
+NCT07376187,ncfb,care_delivery,,not_cf_primary,0,0,0,Digital physiotherapy in pediatric CSLD,,,reviewed,Chronic suppurative lung disease / non-CF. Exclude from CF map.
+NCT07608328,ncfb,antimicrobial,,not_cf_primary,0,0,0,Azithromycin in bronchiectasis,,,reviewed,Bronchiectasis exacerbation study. Exclude from CF map.
+NCT07616375,ncfb,anti_inflammatory,,not_cf_primary,0,0,0,HSK31858 long-term,,,reviewed,NCFB extension. Exclude from CF map.
+NCT07696091,ncfb,other,,not_cf_primary,0,0,0,RSS0343 drug-interaction,,,reviewed,NCFB PK interaction. Exclude from CF map.
+NCT07709494,ncfb,antimicrobial,,not_cf_primary,0,0,0,,,,reviewed,Heuristic flagged as NCFB; keep off the CF map pending a CF-specific protocol.
+NCT07720375,ncfb,anti_inflammatory,,not_cf_primary,0,0,0,Galvokimig,,,reviewed,Heuristic flagged as NCFB / non-CF. Exclude from CF map.
+NCT07722364,ncfb,mucociliary_clearance,,not_cf_primary,0,0,0,HFCWO in non-CF bronchiectasis,,,reviewed,Explicit non-CF bronchiectasis. Exclude from CF map.
+NCT07805174,ncfb,care_delivery,,not_cf_primary,0,0,0,HIIT in bronchiectasis,,,reviewed,Bronchiectasis exercise study. Exclude from CF map.
+NCT05331183,cf,cftr_modulator,N2,label_expansion,1,0,0,Trikafta (ELX/TEZ/IVA),Vertex Pharmaceuticals,cff-trikafta,reviewed,Pediatric/long-term ETI safety. Approved franchise; not investigational whitespace.
+NCT05422222,cf,cftr_modulator,N2,label_expansion,1,0,0,Alyftrek (VX-121/TEZ/D-IVA),Vertex Pharmaceuticals,cff-alyftrek,reviewed,Ages 1-11 VTD. Label expansion of an approved product.
+NCT05444257,cf,cftr_modulator,N2,label_expansion,1,0,0,Alyftrek long-term,Vertex Pharmaceuticals,cff-alyftrek,reviewed,VTD long-term extension.
+NCT05668741,cf,mrna,N1,therapeutic,1,1,1,VX-522,Vertex Pharmaceuticals,cff-vx-522,reviewed,ACTIVE_NOT_RECRUITING Phase 1/2 inhaled CFTR mRNA. Treat as active_clinical unless a stop is documented.
+NCT06237335,cf,mrna,N1,therapeutic,1,1,1,RCT2100,ReCode Therapeutics,cff-rct2100,reviewed,Phase 2 inhaled CFTR mRNA including CF participants.
+NCT06460506,cf,cftr_modulator,N2,label_expansion,1,0,0,Trikafta ages 12 months+,Vertex Pharmaceuticals,cff-trikafta,reviewed,Infant ETI label-expansion OLE.
+NCT06962852,cf,gene_therapy,N1,therapeutic,1,1,1,BI 3720931,Boehringer Ingelheim,,reviewed,Long-term follow-up of BI CFTR gene-therapy participants. No matching CFF pipeline row in this snapshot.
+NCT07108153,cf,cftr_modulator,N2,therapeutic,1,1,1,SION-719,Sionna Therapeutics,cff-sion-719,reviewed,Phase 2 proof-of-concept NBD1 stabilizer. Next-gen modulator; protein-producing genotypes.
+NCT05844449,cf,cftr_modulator,N2,label_expansion,1,0,0,Alyftrek long-term,Vertex Pharmaceuticals,cff-alyftrek,reviewed,VTD long-term safety.
+NCT07559175,cf,gi_nutrition,N6,therapeutic,1,1,1,NHS7108,, ,reviewed,Industry lipase for exocrine pancreatic insufficiency. Not on the CFF pipeline snapshot.
+NCT05248230,cf,gene_therapy,N1,therapeutic,1,1,1,4D-710,4D Molecular Therapeutics,cff-4d-710,reviewed,Recruiting Phase 2 AAV CFTR gene therapy.
+NCT05504837,cf,gene_therapy,N1,therapeutic,1,1,1,KB407,Krystal Biotech,cff-kb407,reviewed,Recruiting Phase 1 inhaled HSV-1 CFTR gene therapy.
+NCT05802264,cf,anion_bypass,N1,therapeutic,1,1,1,ABCI (amphotericin B cystetic for inhalation),Cystetic Medicines,,reviewed,CFTR-independent anion ionophore. Healthy volunteers and people with CF.
+NCT06429176,cf,aso_oligonucleotide,N1,therapeutic,1,1,1,SPL84,SpliSense,cff-spl84,reviewed,Recruiting Phase 2 splicing oligonucleotide.
+NCT06526923,cf,gene_therapy,N1,therapeutic,1,1,1,SP-101,Spirovant Sciences,cff-sp-101,reviewed,Recruiting Phase 1/2 AAV CFTR gene therapy.
+NCT06747858,cf,mrna,N1,therapeutic,1,1,1,ARCT-032,Arcturus Therapeutics,cff-arct-032,reviewed,Recruiting Phase 2 inhaled CFTR mRNA.
+NCT06998043,cf,phage,N4,therapeutic,1,1,1,BX004,BiomX,cff-bx004,reviewed,Recruiting Phase 2 P. aeruginosa phage in CF.
+NCT07035990,cf,cftr_modulator,N2,therapeutic,1,1,1,SION-451 combination,Sionna Therapeutics,cff-sion-451,reviewed,Phase 1 combination of SION-451 with complementary modulators SION-2222 and SION-109. Count once for crowding.
+NCT07283770,cf,cftr_modulator,N2,therapeutic,1,1,1,VX-581,Vertex Pharmaceuticals,,reviewed,Healthy-volunteer dose-escalation of a next-gen Vertex modulator. CF franchise; not an approved product.
+NCT07437105,cf,cftr_modulator,N2,therapeutic,1,1,1,VX-272,Vertex Pharmaceuticals,,reviewed,Healthy-volunteer dose-escalation of a next-gen Vertex modulator.
+NCT07450547,cf,gi_nutrition,N6,therapeutic,1,1,1,ANG003,,cff-ang003,reviewed,Recruiting Phase 2 GI/nutritional candidate versus pancrelipase.
+NCT03925194,cf,anti_inflammatory,N3,therapeutic,1,1,1,Anakinra,,,reviewed,Academic Phase 2 IL-1 blockade in CF. Investigator-initiated; not a CF-specific newco listing.
+NCT04294043,cf,antimicrobial,N4,therapeutic,1,1,1,Intravenous gallium for NTM,,cff-iv-gallium,reviewed,ABATE: IV gallium in CF with NTM. Linked to the CFF IV gallium listing.
+NCT04530383,cf,metabolic_cfrd,N5,therapeutic,1,1,0,Metformin in CFRD,,,reviewed,Academic repurposing on modulator therapy. Crowding unit 0: not a CF-specific product franchise.
+NCT04731272,cf,metabolic_cfrd,N5,therapeutic,1,1,0,Dulaglutide in CF-related glucose intolerance,,,reviewed,Academic GLP-1 agonist study. Crowding unit 0.
+NCT06149793,cf,metabolic_cfrd,N5,therapeutic,1,1,0,Empagliflozin in CFRD,,,reviewed,Academic SGLT2 inhibitor study. Crowding unit 0.
+NCT06449677,cf,metabolic_cfrd,N5,therapeutic,1,1,1,iLet bionic pancreas,,cff-bionic-pancreas,reviewed,Phase 3 automated insulin delivery in CFRD.
+NCT06810167,cf,gi_nutrition,N6,therapeutic,1,1,0,Tenapanor for CF-related constipation,,,reviewed,Academic/repurposed NHE3 inhibitor. Crowding unit 0.
+NCT06413368,cf,gi_nutrition,N6,therapeutic,1,1,0,Maralixibat for CF constipation,,,reviewed,Academic/repurposed IBAT inhibitor. Crowding unit 0.
+NCT06963008,cf,mrna,N1,therapeutic,1,1,1,BMD003, , ,reviewed,Chinese investigator-initiated inhaled CFTR mRNA. Pair with NCT07485543 as one asset via shared name; this row carries crowding_unit.
+NCT07485543,cf,mrna,N1,therapeutic,0,0,0,BMD003,,,reviewed,Second BMD003 protocol. Counted once via NCT06963008; this row is reviewed CF but not a second map asset.
+NCT06995651,cf,metabolic_cfrd,N5,therapeutic,1,1,0,Dorzagliatin in pancreatic-insufficient CF,,,reviewed,Academic glucokinase activator. Crowding unit 0.
+NCT07275905,cf,phage,N4,therapeutic,1,1,1,AchromoPhage,,,reviewed,Academic Achromobacter phage Phase 1.
+NCT07280598,cf,phage,N4,therapeutic,1,1,0,IV bacteriophage cocktail plus IV antibiotics,,,reviewed,Academic combination phage-antibiotic safety study. Crowding counted on other phage assets if industry; this remains map-visible but crowding_unit 0 to avoid triple-counting academic phage.
+NCT07289035,cf,other,N1,therapeutic,1,1,1,Tamoxifen in modulator-ineligible CF,,,reviewed,Early academic study in people unable to use modulators. Mechanism (CFTR trafficking vs other) is unconfirmed; keep strategy=other.
+NCT07485010,cf,antimicrobial,N4,therapeutic,1,0,0,Intensive-phase NTM combination including bedaquiline,,,reviewed,NTM regimen comparison that includes people with CF. Not a CF-specific new asset; map_eligible for coverage of N4 activity but crowding_unit 0 and not whitespace.
+NCT07569419,cf,gi_nutrition,N6,therapeutic,1,1,0,Linaclotide for CF GI disease,,,reviewed,Academic proof-of-principle. Crowding unit 0.
+NCT07688070,cf,metabolic_cfrd,N5,therapeutic,1,1,0,Verapamil in CF-related dysglycemia,,,reviewed,Academic metabolic study. Crowding unit 0.
+NCT06364176,cf,anti_inflammatory,N3,therapeutic,1,1,1,Losartan as adjunct to modulators,,,reviewed,Academic Phase 2 anti-inflammatory adjunct.
+NCT04602468,cf,cftr_modulator,N2,label_expansion,1,0,0,RECOVER real-world ETI,,cff-trikafta,reviewed,Academic real-world ETI outcomes. Duplicate of approved franchise; crowding_unit 0.
+NCT07809867,cf,cftr_modulator,N2,label_expansion,1,0,0,ETI pharmacokinetics,,cff-trikafta,reviewed,Phase 4 PK of approved ETI.
+NCT05548283,cf,antimicrobial,N4,supportive,0,0,0,STOP PEx aminoglycoside regimens,,,reviewed,Standard-of-care antibiotic optimization. Not a new product.
+NCT06368804,cf,antimicrobial,N4,supportive,0,0,0,Early PA antibiotic regimens,,,reviewed,Standard antibiotic comparison in bronchiectasis/CF airways. Not a new product.
+NCT02641769,cf,other,N7,supportive,0,0,0,Intra-testicular stem cells for azoospermia,,,reviewed,Fertility research in men who may have CF. Not a CF therapeutic map asset.
+NCT02740868,cf,diagnostic,,diagnostic,0,0,0,Xenon-129 lung MRI,,,reviewed,Imaging biomarker in mixed pulmonary disease including CF.
+NCT07417267,mixed_muco_obstructive,care_delivery,N8,supportive,0,0,0,Clean-air purifiers for rare mucociliary disorders,,,reviewed,Basket across mucociliary disorders; not CF-specific crowding.
+NCT03587961,cf,cftr_modulator,N2,supportive,0,0,0,Personalized theratyping,,,reviewed,N-of-1 / theratyping of approved modulators. Not a new asset.
+NCT04580368,cf,cftr_modulator,N2,supportive,0,0,0,N-of-1 modulator efficacy,,,reviewed,Methodology study of approved modulators.
+NCT03921060,cf,other,N7,supportive,0,0,0,Denosumab markers in CF osteoporosis,,,reviewed,Bone-health study of an approved osteoporosis drug. Not CF-specific whitespace.
+NCT05704036,cf,other,N7,supportive,0,0,0,Estrogen supplementation and bone health,,,reviewed,Adult women's health / N7. Not a CF-specific newco asset.
+NCT07148739,cf,cftr_modulator,N2,label_expansion,0,0,0,ENACT therapeutic drug monitoring of ETI,,,reviewed,Access/TDM of approved ETI. Care-delivery adjacent; not map-eligible crowding.

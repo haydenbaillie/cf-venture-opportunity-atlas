@@ -1,0 +1,10 @@
+metric,value_numeric,notes
+trials_total,1209,All interventional CF-tagged studies in the snapshot
+trials_reviewed,71,Manual overlay applied
+trials_auto_suggested,1138,Keyword suggestion only
+trials_map_eligible,40,Reviewed + disease_area=cf + map_eligible=1
+ncfb_heuristic_flagged,98,Phase 3 title/summary heuristic
+nct01851694_disease_area,1,Override must classify this CFRD study as cf; current=cf
+programs_reviewed,57,Every CFF pipeline row
+map_assets,54,Reviewed CF map-eligible programs and unmatched trials
+map_assets_whitespace,37,Investigational (not approved/SOC label expansions)

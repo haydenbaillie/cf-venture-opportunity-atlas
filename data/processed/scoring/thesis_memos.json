@@ -1,0 +1,326 @@
+{
+  "theses": [
+    {
+      "thesis_id": "H1",
+      "title": "CF-specific metabolic therapy beyond insulin",
+      "need_id": "N5",
+      "solution_class": "therapeutic",
+      "formation_stance": "pursue_diligence",
+      "one_liner": "Adult CFRD is common and the reviewed industry drug map is empty.",
+      "what_would_have_to_be_true": "CFRD remains prevalent on HEMT; generic SGLT2/GLP-1/metformin are insufficient or poorly tolerated in CF; a CF-specific mechanism or formulation has a feasible endpoint (CGM time-in-range or pulmonary co-benefit).",
+      "kill_criteria": "Kill if academic SGLT2/GLP-1 studies show off-the-shelf drugs close the gap or if HEMT cohorts show CFRD incidence collapsing toward background.",
+      "evidence_confidence": "Moderate",
+      "source_ids": "cff_registry_adr_2024;clinicaltrials_gov_api_v2",
+      "display_default": 77,
+      "rank_default": 1,
+      "display_patient_impact": 74,
+      "display_venture_creation": 78,
+      "display_commercial": 80,
+      "crowding_band": "none",
+      "n_industry_whitespace": 0,
+      "parent_need_score": 77,
+      "display_line": "Opportunity Score: 77/100 \u00b7 Evidence: Moderate",
+      "headline": "Adult CFRD is common, insulin-centric, and empty of CF-specific industry drugs.",
+      "fact": "CFRD is 19.2% of the transplant-censored complications population (n\u224832,492) and 29.3% of adults in that table. Among people with CFRD, 16.4% had no treatment noted; non-insulin therapies were 8.0%; about 58% of people with diabetes used CGM. Insulin remains guideline standard of care. There is no CF-specific disease-modifying metabolic product on the approved-therapy table. Do not apply 19.2% to the 33,989 demographic total.",
+      "analysis": "The reviewed competitive map has zero industry investigational crowding units on N5. Visible activity is academic: SGLT2, GLP-1, metformin, dorzagliatin, verapamil, plus a bionic-pancreas device program. N5 therefore scores 77/100 on default weights with evidence Moderate, first among the eight needs, because whitespace is empty and adult-era prevalence is high \u2014 not because CFRD is a larger causal CFTR gap than N1.",
+      "interpretation": "An empty CF-specific drug map can mean a missing product or a problem that generics and insulin already cover. The 16.4% untreated row can be a care-delivery gap rather than a molecular gap. HEMT may still reduce future incidence even if today's adult prevalence is high.",
+      "bull_case": "Adult-majority Registry, countable residual diabetes, and no CF-specific industry drug on the reviewed map. That combination is why this is the default top need. A CF-specific mechanism or formulation would have a measurable glucose endpoint and a possible pulmonary co-benefit.",
+      "bear_case": "Off-the-shelf metabolic agents plus insulin may be enough. Academic empagliflozin, dulaglutide, and metformin studies are the falsifiers. Endpoints that matter in CF (FEV1, weight, exacerbations) are harder than HbA1c. Ranking first is a whitespace result, not proof that a newco should exist.",
+      "counterarguments": [
+        "Generic incretin and SGLT2 drugs already exist; a CF newco has to beat 'prescribe what endocrinology already uses.'",
+        "CFF links CFRD to lung-function decline and mortality, but that association does not identify a CF-specific molecular target.",
+        "The bionic pancreas is a device crowding unit, not a drug, and may absorb insulin-delivery residual without a metabolic newco."
+      ],
+      "remaining_diligence": [
+        "Read out academic empagliflozin, dulaglutide, and metformin CF trials before assuming a CF-specific mechanism is needed.",
+        "Check whether HEMT-era pediatric cohorts are still progressing to CFRD at historical rates.",
+        "Decide whether the product is a CF-specific drug, a CF-labeled metabolic agent, or better insulin/CGM workflow."
+      ],
+      "fact_claim_ids": [
+        "C003",
+        "C014"
+      ],
+      "verdict": "Pursue diligence on a CF-specific metabolic question. Do not treat the 77 as a mandate to form a company. Kill fast if generics close the gap."
+    },
+    {
+      "thesis_id": "H2",
+      "title": "CFTR-independent airway anion transport",
+      "need_id": "N1",
+      "solution_class": "therapeutic",
+      "formation_stance": "pursue_diligence",
+      "one_liner": "Nucleic-acid restoration is crowded; a bypass mechanism is the differentiated N1 bet.",
+      "what_would_have_to_be_true": "ABCI-class ionophores restore airway anion transport without CFTR protein; safety and chronic dosing work in people with CF including nonsense/rare genotypes; nucleic-acid programs do not fully cover the ineligible group first.",
+      "kill_criteria": "Kill if ABCI safety/tolerability fails or if a mutation-agnostic mRNA/gene therapy demonstrates clinically meaningful restoration in ineligible genotypes.",
+      "evidence_confidence": "Moderate",
+      "source_ids": "clinicaltrials_gov_api_v2",
+      "display_default": 72,
+      "rank_default": 2,
+      "display_patient_impact": 79,
+      "display_venture_creation": 68,
+      "display_commercial": 68,
+      "crowding_band": "high",
+      "n_industry_whitespace": 13,
+      "parent_need_score": 72,
+      "display_line": "Opportunity Score: 72/100 \u00b7 Evidence: Moderate",
+      "headline": "If N1 restoration is crowded, the differentiated bet is CFTR-independent anion transport.",
+      "fact": "After Alyftrek, CFF estimates ~92% eligible for at least one modulator. 2,434 people were ineligible by age or genotype; 1,226 ineligible adolescents/adults had Registry data. There is no approved mutation-agnostic CFTR restoration.",
+      "analysis": "N1 has 13 industry investigational crowding units (gene therapy, mRNA, ASO). ABCI (amphotericin B cystetic for inhalation, Cystetic Medicines, NCT05802264) is the reviewed, industry, map-eligible Phase 1 ionophore that does not need CFTR protein. Complementary Sionna molecules count as one crowding unit elsewhere on the modulator map, not here.",
+      "interpretation": "A bypass mechanism is orthogonal to the crowded delivery race for nonsense and other no-protein genotypes. One early clinical program is a hedge, not a field. If nucleic-acid restoration works first, bypass becomes backup.",
+      "bull_case": "Mutation-agnostic restoration without gene or mRNA delivery. For genotypes that make no CFTR protein, ionophore anion transport is a different job than adding another inhaled CFTR mRNA.",
+      "bear_case": "ABCI is early (healthy volunteers and people with CF). Chronic inhaled amphotericin-class ionophore safety, dosing, and airway irritation are the obvious failure modes. Company-formation here is close to a single-asset bet unless a second bypass mechanism appears.",
+      "counterarguments": [
+        "Mutation-agnostic nucleic-acid delivery is the more direct causal fix if it works; bypass is a hedge, not a better biology story.",
+        "Ionophore precedents outside CF do not automatically translate to lifelong inhaled use in damaged airways.",
+        "One recruiting Phase 1 program is not evidence that the class is tractable at chronic doses."
+      ],
+      "remaining_diligence": [
+        "Track ABCI safety, sweat chloride or FEV1 signals, and whether chronic dosing is even attempted.",
+        "Compare genotype coverage against the ineligible 12+ group (1,226 with Registry data), not the full 2,434 ineligible count.",
+        "Do not count ABCI as whitespace if it stalls while remaining listed as recruiting."
+      ],
+      "fact_claim_ids": [
+        "C004",
+        "C005",
+        "C006"
+      ],
+      "verdict": "Pursue diligence as the differentiated N1 mechanism. It is not safer than nucleic-acid programs; it is less crowded."
+    },
+    {
+      "thesis_id": "H3",
+      "title": "Persistent PA or NTM beyond inhaled-antibiotic SoC",
+      "need_id": "N4",
+      "solution_class": "therapeutic",
+      "formation_stance": "pursue_diligence",
+      "one_liner": "Approved inhaled antibiotics remain SoC; novel CF infection programs are thin after review.",
+      "what_would_have_to_be_true": "Chronic PA or NTM still drives residual lung disease on HEMT; phage or another modality can be manufactured and regulated; culture-ascertainment decline is not the whole PA story.",
+      "kill_criteria": "Kill if BX004 or similar phage succeeds as a broad incumbent or if PA/NTM prevalence and inhaled-antibiotic use keep collapsing without a new product.",
+      "evidence_confidence": "Moderate",
+      "source_ids": "cff_registry_adr_2024;clinicaltrials_gov_api_v2",
+      "display_default": 66,
+      "rank_default": 3,
+      "display_patient_impact": 63,
+      "display_venture_creation": 66,
+      "display_commercial": 70,
+      "crowding_band": "low",
+      "n_industry_whitespace": 1,
+      "parent_need_score": 66,
+      "display_line": "Opportunity Score: 66/100 \u00b7 Evidence: Moderate",
+      "headline": "Inhaled antibiotics remain SoC; novel CF infection programs are thin after review.",
+      "fact": "PA is 23.3% of cultured patients (52.0% in 2009). NTM is 11.6% of mycobacterial cultures and 18.7% among ages 60+. Inhaled tobramycin remains 51.2% of PA-positive ages \u22656; inhaled aztreonam 30.3%. Fewer cultures since 2020 affect ascertainment.",
+      "analysis": "After review, industry investigational crowding on N4 is low: BiomX BX004. Academic phage and IV gallium are visible. AP-PA02 had no matching active CF-like trial in this snapshot. N4 scores 66/100 with evidence Moderate.",
+      "interpretation": "SoC occupies chronic suppression. The remaining question is persistent PA or NTM on that SoC, not an untreated infection market. Falling PA is real and partly measurement-sensitive.",
+      "bull_case": "Approved inhaled antibiotics are still widely used and novel CF infection programs are thin. A manufacturable, regulated modality against persistent PA or NTM would sit in a reviewed industry column that currently has one crowding unit.",
+      "bear_case": "If BX004 works, it becomes the incumbent rather than leaving a hole. If PA keeps falling on HEMT, the addressable chronic-infection group shrinks. Phage CMC, resistance, and regulation are messy. NTM in older adults may be aging and ascertainment more than a CF-specific phage story.",
+      "counterarguments": [
+        "SoC exists; this is residual disease on treatment, not an untreated infection market.",
+        "Academic phage protocols can look like activity without being company-formation infrastructure.",
+        "Public Registry tables do not cleanly separate chronic from intermittent PA."
+      ],
+      "remaining_diligence": [
+        "Separate chronic vs intermittent PA before sizing a product.",
+        "Watch BX004 readout before starting a second PA phage newco.",
+        "Treat NTM as a distinct development problem from PA, not one infection TAM."
+      ],
+      "fact_claim_ids": [
+        "C012",
+        "C013"
+      ],
+      "verdict": "Pursue diligence on a defined persistent-infection segment. Do not pitch 'CF infection' as empty."
+    },
+    {
+      "thesis_id": "H4",
+      "title": "Residual airway inflammation on HEMT",
+      "need_id": "N3",
+      "solution_class": "therapeutic",
+      "formation_stance": "watch_adjacent",
+      "one_liner": "CF-specific industry anti-inflammatories are absent; NCFB DPP1 programs are the adjacent crowding risk.",
+      "what_would_have_to_be_true": "Residual PEx and FEV1 impairment on HEMT are inflammatory enough to treat; a CF-specific mechanism or CF trial is required because NCFB drugs do not automatically translate.",
+      "kill_criteria": "Kill if brensocatib-class DPP1 works in CF or if residual disease is mostly structural damage and infection rather than treatable inflammation.",
+      "evidence_confidence": "Moderate",
+      "source_ids": "cff_registry_adr_2024;clinicaltrials_gov_api_v2;cff_pipeline_web",
+      "display_default": 62,
+      "rank_default": 4,
+      "display_patient_impact": 61,
+      "display_venture_creation": 61,
+      "display_commercial": 65,
+      "crowding_band": "none",
+      "n_industry_whitespace": 0,
+      "parent_need_score": 62,
+      "display_line": "Opportunity Score: 62/100 \u00b7 Evidence: Moderate",
+      "headline": "CF-specific anti-inflammatories look empty until you count NCFB DPP1.",
+      "fact": "IV-treated pulmonary exacerbations fell to 12.1% (35.8% in 2009) but not to zero. Mean FEV1 is 89.1% among ages >7 and 72.8% among ages 40\u201349. Sixty-one lung transplants still occurred in 2024 (249 in 2019). Dornase remains 80.6% among ages \u22656.",
+      "analysis": "After excluding NCFB programs, the reviewed CF industry anti-inflammatory map is empty of investigational crowding units. Academic anakinra and losartan are the visible CF-specific bets. N3 whitespace is scored 3, not 5, because late-stage NCFB DPP1 programs (brensocatib-class, including verducatib/BI-1291583 listed not-CF-primary) are adjacent crowding. Ensifentrine and HSK31858 stay off the map.",
+      "interpretation": "Residual PEx and impaired FEV1 on HEMT may be inflammation, infection, structural damage, or all three. An empty CF-specific column is not automatically a newco if an NCFB drug can be tried in CF.",
+      "bull_case": "Exacerbations and advanced lung disease did not disappear. If residual disease is still inflammatory, and if NCFB DPP1 does not translate, a CF-specific anti-inflammatory would face an open industry map.",
+      "bear_case": "Effect sizes on an HEMT background will be smaller than pre-modulator inflammation trials. Residual disease may not be treatable inflammation. If brensocatib-class DPP1 works in CF, this thesis is indication expansion, not company formation.",
+      "counterarguments": [
+        "PEx already fell sharply; the remaining 12.1% may be too mixed to support a new anti-inflammatory.",
+        "Dornase use shows mucociliary SoC is still used; that is not the same as an anti-inflammatory hole.",
+        "Anakinra and losartan are investigator-initiated and may never become products."
+      ],
+      "remaining_diligence": [
+        "Map whether residual PEx on HEMT is inflammatory, infectious, or structural.",
+        "Watch NCFB DPP1 CF-crossover or CF-specific protocols.",
+        "Do not score NCFB ensifentrine or HSK31858 as CF crowding; they are already off the map."
+      ],
+      "fact_claim_ids": [
+        "C009",
+        "C010",
+        "C011"
+      ],
+      "verdict": "Watch adjacent. Only pursue a CF-specific inflammation newco if NCFB drugs fail to translate and residual disease is still inflammatory."
+    },
+    {
+      "thesis_id": "H5",
+      "title": "Disease-modifying CF liver disease",
+      "need_id": "N6",
+      "solution_class": "therapeutic",
+      "formation_stance": "pursue_diligence",
+      "one_liner": "PERT is a solved product class; advanced CFLD is small severe and untreated by a disease-modifying drug.",
+      "what_would_have_to_be_true": "Cirrhosis/portal-hypertension endpoints can be studied; the 861-person cirrhosis group is large enough for a development path; UDCA-negative guidance leaves a real gap.",
+      "kill_criteria": "Kill if the addressable advanced-CFLD population is too small for a trial or if a feasible endpoint cannot be defined.",
+      "evidence_confidence": "Moderate",
+      "source_ids": "cff_registry_adr_2024",
+      "display_default": 60,
+      "rank_default": 7,
+      "display_patient_impact": 60,
+      "display_venture_creation": 60,
+      "display_commercial": 60,
+      "crowding_band": "moderate",
+      "n_industry_whitespace": 2,
+      "parent_need_score": 60,
+      "display_line": "Opportunity Score: 60/100 \u00b7 Evidence: Moderate",
+      "headline": "PERT is a solved product class. Advanced CFLD is small, severe, and untreated by a disease-modifying drug.",
+      "fact": "PERT use is 80.2%. Cirrhosis is 2.7% of the complications population (861 people). CFF recommends against routine UDCA to prevent advanced CFLD; UDCA was still prescribed in 10.1%. No approved disease-modifying CFLD therapy is in the MVP table.",
+      "analysis": "N6 industry crowding is moderate (two units): ANG003 and NHS7108 are GI/lipase candidates, not liver disease-modifiers. The need scores 60/100 with evidence Moderate because the category mixes a solved enzyme class with a rare severe liver problem.",
+      "interpretation": "The interesting remaining gap is CFLD, not another pancreatic enzyme. 861 people with cirrhosis is a hard biotech n. Older-adult PERT decline is interpreted by CFF as milder surviving phenotypes, not solved pancreatic disease.",
+      "bull_case": "A disease-modifying CFLD path would not compete with PERT incumbents. Negative UDCA guidance leaves a documented pharmacologic hole if endpoints can be defined.",
+      "bear_case": "Portal-hypertension endpoints are slow and noisy. A lipase newco is incremental to an existing class. Liver-disease development in other rare diseases has long timelines that a CF-only vehicle may not support.",
+      "counterarguments": [
+        "PERT whitespace is not the interesting claim; CFLD is, and CFLD may be too small.",
+        "Industry GI crowding is about enzymes and nutrition, not cirrhosis.",
+        "Transplant-censored tables may hide post-transplant liver disease and shrink the countable group further."
+      ],
+      "remaining_diligence": [
+        "Split N6 in any later scoring: PERT vs CFLD should not share one venture thesis.",
+        "Confirm whether 861 is incident enough for a trial.",
+        "Look for non-CF cholestatic or fibrotic analogs only as biology, not as a TAM overlay."
+      ],
+      "fact_claim_ids": [
+        "C015",
+        "C016"
+      ],
+      "verdict": "Pursue diligence on CFLD endpoints and n, not on another PERT. Kill if the addressable advanced-liver group cannot support a trial."
+    },
+    {
+      "thesis_id": "H6",
+      "title": "Adult-era treatment-burden and care-delivery services",
+      "need_id": "N8",
+      "solution_class": "services",
+      "formation_stance": "services_not_drug",
+      "one_liner": "Do not force a drug score onto a services problem. Clinic visits and inhaled-therapy burden remain after modulators.",
+      "what_would_have_to_be_true": "A services or digital product can reduce visit burden inhaled-therapy time or adult-care coordination with a measurable CF-clinic workflow; reimbursement is plausible without inventing a TAM from 33989 people.",
+      "kill_criteria": "Kill if the only residual is clinic operations that health systems will absorb or if Registry time-use evidence never materializes.",
+      "evidence_confidence": "Moderate",
+      "source_ids": "cff_registry_adr_2024;clinicaltrials_gov_api_v2",
+      "display_default": 62,
+      "rank_default": 4,
+      "display_patient_impact": 61,
+      "display_venture_creation": 64,
+      "display_commercial": 60,
+      "crowding_band": "none",
+      "n_industry_whitespace": 0,
+      "parent_need_score": 62,
+      "display_line": "Opportunity Score: 62/100 \u00b7 Evidence: Moderate",
+      "headline": "Treatment burden fell and did not disappear. That is a services problem unless proven otherwise.",
+      "fact": "Mean clinic visits were 3.0 in 2024 (4.3 in 2019). Dornase 80.6% and hypertonic saline 62.6% among ages \u22656. The Registry is 61.6% adult. Pharmacist visits were 60.4%. Telehealth mean visits were 0.4.",
+      "analysis": "Seventeen auto-suggested active CF-like care-delivery studies exist and are not map-eligible products. N8 has zero reviewed map assets. The need scores 62/100 because commercial CF-specific services look open \u2014 not because a drug is missing.",
+      "interpretation": "Visit decline after 2019 may already be part of the solution. An empty product map plus seventeen academic behavioral studies can mean a crowded investigator space even when no company is on the grid.",
+      "bull_case": "Adult-era CF still involves inhaled-therapy time and clinic coordination. A services or digital product with a measurable clinic workflow could sit where no therapeutic map row belongs.",
+      "bear_case": "Health systems and accredited care centers may absorb coordination as operations. Digital-health reimbursement in CF is mixed and not a claims-backed MVP input. Public Registry data do not publish minutes-per-day of therapy. Do not invent a TAM from 33,989 people.",
+      "counterarguments": [
+        "Visit decline and telehealth may already be the residual-burden answer.",
+        "Pharmacist visits suggest existing care-team capacity, not a missing app company.",
+        "A services thesis that needs a CF-specific FDA path is probably a mis-specified drug thesis."
+      ],
+      "remaining_diligence": [
+        "Find a workflow owner (adult clinic, specialty pharmacy, or payer) before a product concept.",
+        "Require a measurable burden endpoint; do not use Registry visit means as a market size.",
+        "Keep this off the therapeutic competitive map."
+      ],
+      "fact_claim_ids": [
+        "C003",
+        "C019"
+      ],
+      "verdict": "Services, not a drug. Keep in the investigation set. Kill if the residual is clinic operations."
+    },
+    {
+      "thesis_id": "H7",
+      "title": "Mutation-agnostic nucleic-acid CFTR restoration",
+      "need_id": "N1",
+      "solution_class": "therapeutic",
+      "formation_stance": "watch_incumbents",
+      "one_liner": "This remains the causal remaining restoration problem and it is the crowded investigational column.",
+      "what_would_have_to_be_true": "A new delivery or editing approach is differentiated from 4D-710 VX-522 ARCT-032 RCT2100 KB407 SP-101 SPL84 and related listings; ineligible genotypes still lack restoration after those programs read out.",
+      "kill_criteria": "Kill as a company-formation default if current clinical nucleic-acid programs show meaningful restoration. Keep as a watch-incumbents card not a me-too newco.",
+      "evidence_confidence": "High",
+      "source_ids": "clinicaltrials_gov_api_v2;cff_pipeline_web;cff_registry_adr_2024",
+      "display_default": 72,
+      "rank_default": 2,
+      "display_patient_impact": 79,
+      "display_venture_creation": 68,
+      "display_commercial": 68,
+      "crowding_band": "high",
+      "n_industry_whitespace": 13,
+      "parent_need_score": 72,
+      "display_line": "Opportunity Score: 72/100 \u00b7 Evidence: High",
+      "headline": "Mutation-agnostic nucleic-acid restoration is the causal remaining CFTR problem and the crowded investigational column.",
+      "fact": "After Alyftrek, CFF estimates ~92% eligible for at least one modulator. 2,434 people were ineligible by age or genotype; 1,226 ineligible adolescents/adults had Registry data. No approved mutation-agnostic restoration exists.",
+      "analysis": "Thirteen industry investigational crowding units sit on N1: 4D-710, ARCT-032, RCT2100, VX-522, KB407, SP-101, SPL84, BI 3720931, plus related preclinical listings that remained map-eligible after review. Vertex is in the mRNA race. N1 scores 72/100 default (whitespace 1/5) and 79/100 on the patient-impact preset. Evidence is High.",
+      "interpretation": "This is the cleanest remaining CFTR-function hole and the worst default newco. Ineligible count is not a TAM: many of the 2,434 are ineligible by age, not by a treatable no-protein genotype. Historical readthrough (ataluren) failed.",
+      "bull_case": "Biology and endpoints are clear. Patient-impact weights put N1 first. A differentiated delivery or editing approach could still matter if current programs fail.",
+      "bear_case": "A me-too newco adds a 14th program, not a missing mechanism. Lung delivery, not target identification, is the bottleneck. ACTIVE_NOT_RECRUITING VX-522 is still treated as active_clinical. CFF past-tense preclinical listings were taken off the map for a reason.",
+      "counterarguments": [
+        "Ineligible count is not a TAM; use the 1,226 adolescents/adults with Registry data, not 2,434, when discussing treatable genotypes.",
+        "Do not narrate VX-522 as a vacuum because it is not recruiting.",
+        "ABCI (H2) is the orthogonal N1 hedge; another inhaled CFTR mRNA is not."
+      ],
+      "remaining_diligence": [
+        "Wait for human restoration signals from the current clinical set before company-formation.",
+        "If forming anything, it must be a differentiated delivery or editing approach, not another inhaled CFTR mRNA.",
+        "Keep ABCI (H2) as the orthogonal N1 hedge rather than a second nucleic-acid vehicle."
+      ],
+      "fact_claim_ids": [
+        "C004",
+        "C005",
+        "C006",
+        "C026"
+      ],
+      "verdict": "Watch incumbents. This is the most important remaining CFTR problem and the worst default newco."
+    }
+  ],
+  "held_out": [
+    {
+      "need_id": "N2",
+      "title": "Eligible but not prescribed",
+      "score_default": 46,
+      "why_held_out": "The 623 people aged 12+ who were eligible in 2020 and had no modulator prescription in 2022\u20132024 are a mixed group (side effects, perceived stability, access). Next-generation Vertex modulators already occupy the class. N2 ranks last (46/100) in every weight preset.",
+      "counterarguments": [
+        "Do not treat 623 as a TAM or as interchangeable with genotype-ineligible.",
+        "Alyftrek pediatric and LTE trials are label expansion, not whitespace."
+      ],
+      "verdict": "Scored and kept in the investigation set. Not a default company-formation card."
+    },
+    {
+      "need_id": "N7",
+      "title": "Aging with CF",
+      "score_default": 61,
+      "why_held_out": "Predicted median survival is 65.4 years; 61.6% of the Registry is adult; 1,437 people are aged 60+. Adult anxiety is 31.9% and depression 30.2%. That is a demographic fact without a single CF-specific molecular target. The reviewed map for N7 is empty because the category is a bundle (bone, cancer screening, mental health, polypharmacy), not a product.",
+      "counterarguments": [
+        "An empty map here is a taxonomy problem, not proof of a missing drug.",
+        "Do not form a company against 'aging with CF' as one indication."
+      ],
+      "verdict": "Scored and kept in the investigation set. Not a default company-formation card."
+    }
+  ]
+}

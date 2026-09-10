@@ -1,0 +1,17 @@
+overall_status,is_likely_ncfb,n,source_id
+ACTIVE_NOT_RECRUITING,False,22,clinicaltrials_gov_api_v2
+ACTIVE_NOT_RECRUITING,True,1,clinicaltrials_gov_api_v2
+COMPLETED,False,772,clinicaltrials_gov_api_v2
+COMPLETED,True,59,clinicaltrials_gov_api_v2
+ENROLLING_BY_INVITATION,False,3,clinicaltrials_gov_api_v2
+NOT_YET_RECRUITING,False,19,clinicaltrials_gov_api_v2
+NOT_YET_RECRUITING,True,6,clinicaltrials_gov_api_v2
+RECRUITING,False,62,clinicaltrials_gov_api_v2
+RECRUITING,True,13,clinicaltrials_gov_api_v2
+SUSPENDED,False,3,clinicaltrials_gov_api_v2
+SUSPENDED,True,1,clinicaltrials_gov_api_v2
+TERMINATED,False,107,clinicaltrials_gov_api_v2
+TERMINATED,True,7,clinicaltrials_gov_api_v2
+UNKNOWN,False,83,clinicaltrials_gov_api_v2
+UNKNOWN,True,11,clinicaltrials_gov_api_v2
+WITHDRAWN,False,40,clinicaltrials_gov_api_v2

@@ -1,0 +1,7 @@
+component_id,label,default_weight,description
+patient_need,Patient need,0.25,Size of the residual population plus morbidity mortality and quality-of-life burden after current care. Scored 1-5 with a written rubric in docs/scoring-rubrics.md.
+treatment_gap,Treatment gap,0.20,Availability of effective therapies residual disease despite treatment excluded populations and treatment burden.
+competitive_whitespace,Competitive white space,0.20,Number of active well-resourced programs development-stage concentration and competing mechanisms against that specific problem.
+tractability,Scientific / clinical tractability,0.15,Biological rationale measurable endpoint biomarker availability and therapeutic precedent.
+economic,Economic / commercial relevance,0.10,Chronicity healthcare-resource burden and plausible payer value. Not a TAM forecast.
+why_now,Momentum / why now,0.10,Enabling technologies regulatory changes demographics or recent scientific advances that change feasibility.

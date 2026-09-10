@@ -1,0 +1,15 @@
+{
+  "source_id": "clinicaltrials_gov_api_v2",
+  "endpoint": "https://clinicaltrials.gov/api/v2/studies",
+  "query": {
+    "query.cond": "cystic fibrosis",
+    "filter.advanced": "AREA[StudyType]INTERVENTIONAL"
+  },
+  "page_size": 100,
+  "pages_fetched": 13,
+  "total_count_reported": 1209,
+  "records_saved": 1209,
+  "retrieved_at": "2026-09-09T22:49:42+00:00",
+  "notes": "Sponsor-reported registry data. Interventional studies tagged to cystic fibrosis; condition tagging can be noisy. Does not include most preclinical programs.",
+  "output_path": "C:/Users/hbail/OneDrive/CF Venture Opportunity Atlas/data/raw/clinicaltrials/studies.jsonl"
+}

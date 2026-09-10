@@ -1,0 +1,17 @@
+scenario,top3,top3_overlap_with_default,same_top3
+preset:default,N5;N1;N4,3,1
+preset:patient_impact,N1;N5;N4,3,1
+preset:venture_creation,N5;N1;N4,3,1
+preset:commercial,N5;N4;N1,3,1
+patient_need:minus_10pp,N5;N1;N4,3,1
+patient_need:plus_10pp,N5;N1;N4,3,1
+treatment_gap:minus_10pp,N5;N1;N4,3,1
+treatment_gap:plus_10pp,N1;N5;N4,3,1
+competitive_whitespace:minus_10pp,N1;N5;N4,3,1
+competitive_whitespace:plus_10pp,N5;N4;N1,3,1
+tractability:minus_10pp,N5;N1;N4,3,1
+tractability:plus_10pp,N5;N1;N4,3,1
+economic:minus_10pp,N5;N1;N4,3,1
+economic:plus_10pp,N5;N1;N4,3,1
+why_now:minus_10pp,N5;N1;N4,3,1
+why_now:plus_10pp,N5;N1;N4,3,1

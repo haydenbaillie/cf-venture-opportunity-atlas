@@ -1,0 +1,757 @@
+nct_id,name,class
+NCT01100892,John Hunter Children's Hospital,OTHER
+NCT01100892,"Lady Cilento Children's Hospital, Brisbane",OTHER
+NCT01100892,"Women's and Children's Hospital, Adelaide",UNKNOWN
+NCT01100892,Children's Hospital Colorado,OTHER
+NCT02649751,ManRos Therapeutics,UNKNOWN
+NCT02649751,"Cyclacel Pharmaceuticals, Inc.",INDUSTRY
+NCT03052231,AbbVie,INDUSTRY
+NCT06659757,Avance Clinical Pty Ltd.,INDUSTRY
+NCT02252601,Nottingham University Hospitals NHS Trust,OTHER
+NCT02252601,Heart of England NHS Trust,OTHER
+NCT02252601,Birmingham Women's and Children's NHS Foundation Trust,OTHER
+NCT04553419,The Hospital for Sick Children,OTHER
+NCT03020719,Cystic Fibrosis Foundation,OTHER
+NCT03045198,University of Bonn,OTHER
+NCT03045198,Goethe University,OTHER
+NCT03265288,Cystic Fibrosis Foundation,OTHER
+NCT02054156,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT01222273,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT04460586,Paratek Pharmaceuticals Inc,INDUSTRY
+NCT03948958,B. Braun Medical SA,INDUSTRY
+NCT06280391,Regeneron Pharmaceuticals,INDUSTRY
+NCT01880723,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT00706004,"Takeda Pharmaceuticals North America, Inc.",INDUSTRY
+NCT05314764,Shionogi Inc.,INDUSTRY
+NCT05314764,"Keystone Bioanalytical, Inc.",UNKNOWN
+NCT05314764,Indiana University Health Methodist Hospital,OTHER
+NCT05314764,University of Pittsburgh Medical Center,OTHER
+NCT05314764,University of Texas,OTHER
+NCT04825067,Massachusetts General Hospital,OTHER
+NCT02128984,Quantum Experimental,UNKNOWN
+NCT02128984,Peruvian Clinical Research,OTHER
+NCT00298922,Cystic Fibrosis Foundation,OTHER
+NCT00298922,Pfizer,INDUSTRY
+NCT01353105,Fundação de Amparo à Pesquisa do Estado de São Paulo,OTHER_GOV
+NCT01140451,Cystic Fibrosis Foundation,OTHER
+NCT00686361,Cystic Fibrosis Foundation,OTHER
+NCT00008775,Cystic Fibrosis Foundation,OTHER
+NCT01710644,Parexel,INDUSTRY
+NCT03522480,Albany Medical College,OTHER
+NCT03522480,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT00457821,Cystic Fibrosis Foundation,OTHER
+NCT02170025,Merck Sharp & Dohme LLC,INDUSTRY
+NCT02084043,Université Catholique de Louvain,OTHER
+NCT02084043,University of Applied Sciences of Western Switzerland,OTHER
+NCT02084043,"School of Gestion and Engineering Vaud, Switzerland",UNKNOWN
+NCT07632768,Indiana Clinical and Translational Sciences Institute,OTHER
+NCT00004533,University of Florida,OTHER
+NCT00332215,"Cellular Sciences, inc.",INDUSTRY
+NCT00220259,Cystic Fibrosis Trust,OTHER
+NCT00220259,GlaxoSmithKline,INDUSTRY
+NCT02934698,Vertex Pharmaceuticals Incorporated,INDUSTRY
+NCT00004287,University of Pennsylvania,OTHER
+NCT04966234,University of Exeter,OTHER
+NCT04966234,Radboud University Medical Center,OTHER
+NCT04966234,Consorzio per Valutazioni Biologiche e Farmacologiche,OTHER
+NCT01608555,Chiesi Farmaceutici S.p.A.,INDUSTRY
+NCT00004315,"Children's Hospital Medical Center, Cincinnati",OTHER
+NCT00164138,University of Melbourne,OTHER
+NCT00153634,Cystic Fibrosis Foundation,OTHER
+NCT01309178,Universität Duisburg-Essen,OTHER
+NCT01309178,University of Ulm,OTHER
+NCT00757237,Chiltern International Inc.,INDUSTRY
+NCT00757237,"ClinPhone, Inc.",INDUSTRY
+NCT00757237,Covance,INDUSTRY
+NCT02614300,Sociedad Española de Neumología y Cirugía Torácica,OTHER
+NCT02564354,European Commission,OTHER
+NCT02415959,AbbVie,INDUSTRY
+NCT02415959,LKF Laboratorium für Klinische Forschung GmbH,UNKNOWN
+NCT02415959,Analytical Biochemical Laboratory,UNKNOWN
+NCT02415959,Parexel,INDUSTRY
+NCT02415959,Datamap,INDUSTRY
+NCT02415959,"Linical Co., Ltd.",INDUSTRY
+NCT00157183,"National Health and Medical Research Council, Australia",OTHER
+NCT00157183,Monash University,OTHER
+NCT00157183,Cystic Fibrosis Federation Australia,OTHER
+NCT00219895,Cystic Fibrosis Foundation,OTHER
+NCT03500575,Italian Cystic Fibrosis Research Foundation,OTHER
+NCT07414810,Georgia Institute of Technology,OTHER
+NCT07414810,The Consortium for Technology & Innovation in Pediatrics (CTIP),UNKNOWN
+NCT02532764,European Commission,OTHER
+NCT01705145,Cystic Fibrosis Foundation,OTHER
+NCT02668575,Cystic Fibrosis Foundation,OTHER
+NCT00546663,Cystic Fibrosis Foundation,OTHER
+NCT05723445,Cystic Fibrosis Foundation,OTHER
+NCT01946412,Cystic Fibrosis Foundation,OTHER
+NCT02083263,Karolinska Institutet,OTHER
+NCT06654752,Cystic Fibrosis Foundation,OTHER
+NCT01072721,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT03000348,"Agility Clinical, Inc.",INDUSTRY
+NCT03000348,PSR Group B.V.,INDUSTRY
+NCT03698448,Imperial College London,OTHER
+NCT03698448,Cystic Fibrosis Foundation,OTHER
+NCT03698448,European Cystic Fibrosis Society,UNKNOWN
+NCT03698448,University Hospital of Cologne,OTHER
+NCT03698448,Cystic Fibrosis Europe,UNKNOWN
+NCT00506688,Cystic Fibrosis Foundation,OTHER
+NCT01859390,Cystic Fibrosis Foundation,OTHER
+NCT01859390,Yasoo Health,INDUSTRY
+NCT01091025,Royal Brompton & Harefield NHS Foundation Trust,OTHER
+NCT01987271,Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.,OTHER_GOV
+NCT03391414,Cystic Fibrosis Foundation,OTHER
+NCT07088614,Luis Calvo Mackenna Children´s Hospital,OTHER
+NCT01499914,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT00006063,Indiana University,OTHER
+NCT02563197,Novartis,INDUSTRY
+NCT05229640,Trustees of Dartmouth College,OTHER
+NCT02163681,Xemed LLC,INDUSTRY
+NCT04489186,University Hospitals Cleveland Medical Center,OTHER
+NCT04923880,MJHS Institute for Innovation in Palliative Care,OTHER
+NCT04923880,Emory University,OTHER
+NCT04923880,Stony Brook University,OTHER
+NCT04923880,Feinstein Institute for Medical Research,OTHER
+NCT00823238,Cystic Fibrosis Foundation,OTHER
+NCT00662714,Novo Nordisk A/S,INDUSTRY
+NCT00662714,Mucoviscidose-ABCF2,UNKNOWN
+NCT00662714,Assistance Publique - Hôpitaux de Paris,OTHER
+NCT02894684,University of Liverpool,OTHER
+NCT07275905,Cystic Fibrosis Foundation,OTHER
+NCT01619657,German Center for Lung Research,OTHER
+NCT01270074,Telethon Kids Institute,OTHER
+NCT06606457,University of Kansas Medical Center,OTHER
+NCT04533646,Wake Forest University Health Sciences,OTHER
+NCT00450073,Emory University,OTHER
+NCT00930982,Novartis,INDUSTRY
+NCT00255242,Cystic Fibrosis Foundation,OTHER
+NCT03938324,National Institutes of Health (NIH),NIH
+NCT03938324,National Institute of Nursing Research (NINR),NIH
+NCT01183286,University of Miami,OTHER
+NCT01183286,Columbia University,OTHER
+NCT01183286,University of Tennessee,OTHER
+NCT01183286,Children's National Research Institute,OTHER
+NCT03635762,Cystic Fibrosis Foundation,OTHER
+NCT03635762,Johns Hopkins University,OTHER
+NCT03635762,"Children's Hospital Medical Center, Cincinnati",OTHER
+NCT06322446,Carlos III Health Institute,OTHER_GOV
+NCT06322446,Universidad Europea de Madrid,OTHER
+NCT06322446,Hospital Universitario La Paz,OTHER
+NCT06322446,Hospital Universitario Ramon y Cajal,OTHER
+NCT06322446,"Hospital Infantil Universitario Niño Jesús, Madrid, Spain",OTHER
+NCT01707290,Cystic Fibrosis Foundation,OTHER
+NCT02781610,Cystic Fibrosis Foundation,OTHER
+NCT02781610,CF Therapeutics Development Network Coordinating Center,NETWORK
+NCT02781610,Medical University of South Carolina,OTHER
+NCT02781610,University of Washington,OTHER
+NCT07071324,"Boston Children's Hospital, Boston, MA, USA",OTHER
+NCT07071324,National Jewish Health,OTHER
+NCT07071324,Cystic Fibrosis Foundation,OTHER
+NCT06996951,American Rhinologic Society,OTHER
+NCT04922255,Cystic Fibrosis Foundation,OTHER
+NCT01837589,Vaincre la Mucoviscidose,OTHER
+NCT05157646,Cystic Fibrosis Foundation,OTHER
+NCT00004747,Vanderbilt University Medical Center,OTHER
+NCT04732195,Georgia Institute of Technology,OTHER
+NCT01991028,AlgiPharma AS,INDUSTRY
+NCT07175012,Fundación Pública Andaluza para la gestión de la Investigación en Sevilla,OTHER
+NCT00744250,"University of North Carolina, Chapel Hill",OTHER
+NCT00970346,Smerud Medical Research International AS,OTHER
+NCT03227094,Université de Montréal,OTHER
+NCT03227094,Vertex Pharmaceuticals Incorporated,INDUSTRY
+NCT01117012,Cystic Fibrosis Foundation,OTHER
+NCT06512064,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT06512064,University of Pittsburgh,OTHER
+NCT01417481,Hospital Infantil de Mexico Federico Gomez,OTHER
+NCT01417481,Instituto Mexicano del Seguro Social,OTHER_GOV
+NCT01155752,"Genentech, Inc.",INDUSTRY
+NCT02106832,Novartis,INDUSTRY
+NCT00406536,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT02378467,Cystic Fibrosis Foundation,OTHER
+NCT02518672,Centre de recherche du Centre hospitalier universitaire de Sherbrooke,OTHER
+NCT02518672,Solutex GC S.L.,INDUSTRY
+NCT05140967,Fachklinik Satteldüne der DRV Nord,UNKNOWN
+NCT05140967,"University of Kiel, Arbeitsbereich Sportmedizin und Trainingswissenschaften",UNKNOWN
+NCT05140967,Strandklinik St. Peter-Ording,UNKNOWN
+NCT01586728,Vaincre la Mucoviscidose,OTHER
+NCT00205634,Abbott,INDUSTRY
+NCT04596319,Cystic Fibrosis Foundation,OTHER
+NCT07485010,Innoviva Specialty Therapeutics,INDUSTRY
+NCT02661438,Novartis,INDUSTRY
+NCT02717650,Monash University,OTHER
+NCT04278040,Moscow State University of Medicine and Dentistry,OTHER
+NCT04970225,"Institut National de la Santé Et de la Recherche Médicale, France",OTHER_GOV
+NCT04970225,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT01916577,Sanofi,INDUSTRY
+NCT02950883,Cystic Fibrosis Foundation,OTHER
+NCT02888730,Henri Mondor University Hospital,OTHER
+NCT07417267,Horizon 2020 - European Commission,OTHER
+NCT06242795,Cystic Fibrosis Foundation,OTHER
+NCT01594827,Case Western Reserve University,OTHER
+NCT01594827,Cystic Fibrosis Foundation,OTHER
+NCT04742270,Icadom,INDUSTRY
+NCT05850351,The Scientific and Technological Research Council of Turkey,OTHER
+NCT07436351,Boomer Esiason Foundation,UNKNOWN
+NCT00157690,Centre hospitalier de l'Université de Montréal (CHUM),OTHER
+NCT00157690,London Health Sciences Centre,OTHER
+NCT00157690,University of Calgary,OTHER
+NCT00157690,McGill University,OTHER
+NCT00157690,Laval University,OTHER
+NCT00157690,Merck Frosst Canada Ltd.,INDUSTRY
+NCT02324868,BEDAL,UNKNOWN
+NCT02324868,Remedus,UNKNOWN
+NCT00609050,National Institute of Nursing Research (NINR),NIH
+NCT00056147,Cystic Fibrosis Foundation,OTHER
+NCT00572975,Solvay Pharmaceuticals,INDUSTRY
+NCT02342951,Vaincre la Mucoviscidose,OTHER
+NCT02342951,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT02712983,"Queen's University, Belfast",OTHER
+NCT02712983,"University Hospital, Antwerp",OTHER
+NCT02712983,University of Milan,OTHER
+NCT02712983,Fundacion Clinic per a la Recerca Biomédica,OTHER
+NCT02712983,Erasmus Medical Center,OTHER
+NCT02712983,Papworth Hospital NHS Foundation Trust,OTHER_GOV
+NCT02712983,Royal Brompton & Harefield NHS Foundation Trust,OTHER
+NCT02712983,University of Dundee,OTHER
+NCT02712983,University of Edinburgh,OTHER
+NCT01321905,Region Stockholm,OTHER_GOV
+NCT03304028,Fondation pour la Recherche Médicale,OTHER
+NCT03304028,Vertex Pharmaceuticals Incorporated,INDUSTRY
+NCT03304028,Fondation Ildys,OTHER
+NCT00789867,Royal Brompton & Harefield NHS Foundation Trust,OTHER
+NCT00789867,University of Oxford,OTHER
+NCT00789867,University of Edinburgh,OTHER
+NCT00789867,Cystic Fibrosis Trust,OTHER
+NCT00789867,University of Pennsylvania,OTHER
+NCT03653949,Universidade Estadual da Paraiba,OTHER
+NCT04095078,Icadom,INDUSTRY
+NCT03551691,"Chiesi USA, Inc.",INDUSTRY
+NCT00163852,"National Health and Medical Research Council, Australia",OTHER
+NCT00163852,Monash University,OTHER
+NCT00163852,Cystic Fibrosis Federation Australia,OTHER
+NCT02343445,Vertex Pharmaceuticals Incorporated,INDUSTRY
+NCT01879228,Children's Hospital of Philadelphia,OTHER
+NCT06449677,Cystic Fibrosis Foundation,OTHER
+NCT06449677,Massachusetts General Hospital,OTHER
+NCT06449677,"Beta Bionics, Inc.",INDUSTRY
+NCT05788965,Cystic Fibrosis Foundation,OTHER
+NCT00630812,ethica Clinical Research Inc.,INDUSTRY
+NCT00630812,"Europe: KasaConsult bvba, Hoegaarden, Belgium",INDUSTRY
+NCT00630812,Resolution Latin America,OTHER
+NCT02139306,Cystic Fibrosis Foundation,OTHER
+NCT02139306,ECFS-Clinical Trial Network (ECFS-CTN),UNKNOWN
+NCT02295566,University of Southampton,OTHER
+NCT00006280,National Center for Research Resources (NCRR),NIH
+NCT00391703,Vaincre la Mucoviscidose,OTHER
+NCT03462056,Cystic Fibrosis Foundation,OTHER
+NCT01241942,Vitrolife,INDUSTRY
+NCT01241942,XVIVO Perfusion,INDUSTRY
+NCT00590538,Cystic Fibrosis Foundation,OTHER
+NCT00287443,"Genentech, Inc.",INDUSTRY
+NCT00591864,United States Department of Defense,FED
+NCT01614457,Cystic Fibrosis Foundation,OTHER
+NCT00803205,Cystic Fibrosis Foundation,OTHER
+NCT03894657,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT02677701,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT02677701,Cystic Fibrosis Foundation,OTHER
+NCT02677701,CF Therapeutics Development Network Coordinating Center,NETWORK
+NCT07780344,Cystic Fibrosis Trust,OTHER
+NCT02589236,Medidata Solutions,INDUSTRY
+NCT00095732,Cystic Fibrosis Foundation,OTHER
+NCT02748798,Thunder Bay Regional Health Sciences Centre,OTHER
+NCT02748798,St. Joseph's Care Group,OTHER
+NCT02748798,Lakehead University,OTHER
+NCT02730793,Eastern Virginia Medical School,OTHER
+NCT03172793,"Cumberland Pharmaceuticals, Inc.",UNKNOWN
+NCT04133246,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT01325766,Firland Foundation,UNKNOWN
+NCT00934362,Cystic Fibrosis Foundation,OTHER
+NCT00934362,Windtree Therapeutics,INDUSTRY
+NCT02239874,National Cancer Institute (NCI),NIH
+NCT00885521,Austin Health,OTHER_GOV
+NCT00885521,Sir Charles Gairdner Hospital,OTHER
+NCT00885521,Curtin University,OTHER
+NCT01764841,Novartis,INDUSTRY
+NCT00749866,NHS Lothian,OTHER_GOV
+NCT03139266,University of Michigan,OTHER
+NCT03139266,Boston Children's Hospital,OTHER
+NCT03139266,University at Buffalo,OTHER
+NCT03139266,Emory University,OTHER
+NCT03139266,"Children's Hospital Medical Center, Cincinnati",OTHER
+NCT03139266,Johns Hopkins University,OTHER
+NCT03139266,Cystic Fibrosis Foundation,OTHER
+NCT00287430,Dana S Hardin,UNKNOWN
+NCT05517655,University of Kansas,OTHER
+NCT05517655,University of Iowa,OTHER
+NCT05517655,University of Virginia,OTHER
+NCT00645788,Novartis,INDUSTRY
+NCT00850551,Cystic Fibrosis Foundation,OTHER
+NCT02354859,Cystic Fibrosis Foundation,OTHER
+NCT00274391,Cystic Fibrosis Foundation,OTHER
+NCT01486199,National Institutes of Health (NIH),NIH
+NCT01486199,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT02157922,Eurostars,OTHER
+NCT02157922,Smerud Medical Research International AS,OTHER
+NCT02054377,Royal Brompton & Harefield NHS Foundation Trust,OTHER
+NCT00839644,Cystic Fibrosis Foundation,OTHER
+NCT00839644,American Biosystems (currently Hill-Rom),UNKNOWN
+NCT05590169,Istanbul University - Cerrahpasa,OTHER
+NCT01293084,Cystic Fibrosis Foundation,OTHER
+NCT03617718,National Institutes of Health (NIH),NIH
+NCT03617718,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT03617718,University Hospitals Cleveland Medical Center,OTHER
+NCT00625703,Cystic Fibrosis Foundation,OTHER
+NCT01543191,Celerion,INDUSTRY
+NCT01348204,National Institutes of Health (NIH),NIH
+NCT02947126,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT01018303,Cystic Fibrosis Foundation,OTHER
+NCT01018303,Yasoo Health,INDUSTRY
+NCT01018303,National Institutes of Health (NIH),NIH
+NCT02141191,Parion Sciences,INDUSTRY
+NCT02144246,Society of Family Planning,OTHER
+NCT03206788,University of Alabama at Birmingham,OTHER
+NCT03206788,"Children's Hospital Medical Center, Cincinnati",OTHER
+NCT03206788,University of Kansas Medical Center,OTHER
+NCT03206788,Cystic Fibrosis Foundation,OTHER
+NCT02325362,Actelion,INDUSTRY
+NCT02325362,CRCM (Centres de Ressources et de Compétences de la Mucoviscidose),UNKNOWN
+NCT02325362,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT01429259,Thrasher Research Fund,OTHER
+NCT00221546,Belgian Society against Cystic Fibrosis,UNKNOWN
+NCT06350461,Cystic Fibrosis Foundation,OTHER
+NCT06350461,Dartmouth-Hitchcock Medical Center,OTHER
+NCT06350461,University of Washington,OTHER
+NCT00179998,"Genentech, Inc.",INDUSTRY
+NCT01337219,University of Lyon,OTHER
+NCT01337219,Epidemiologie Pharmacologie Investigation Clinique Information medicale Mere Enfant (EPICIME),UNKNOWN
+NCT01337219,Clininfo S.A.,INDUSTRY
+NCT01337219,Hospices Civils de Lyon,OTHER
+NCT05562492,University of Oxford,OTHER
+NCT05562492,University of Edinburgh,OTHER
+NCT00530244,Cystic Fibrosis Foundation,OTHER
+NCT04096664,Icadom,INDUSTRY
+NCT01958944,Soroka University Medical Center,OTHER
+NCT01958944,"Schneider Children's Medical Center, Israel",OTHER
+NCT01708655,Cystic Fibrosis Foundation,OTHER
+NCT00271310,Cystic Fibrosis Foundation,OTHER
+NCT00271310,"National Health and Medical Research Council, Australia",OTHER
+NCT00271310,Cystic Fibrosis Trust,OTHER
+NCT01093521,Cystic Fibrosis Foundation,OTHER
+NCT01494909,Arkansas Children's Hospital Research Institute,OTHER
+NCT01494909,University of Arkansas,OTHER
+NCT00763412,Washington University School of Medicine,OTHER
+NCT00763412,National Institutes of Health (NIH),NIH
+NCT00763412,Novo Nordisk A/S,INDUSTRY
+NCT00763412,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT01112059,Cystic Fibrosis Foundation,OTHER
+NCT04060329,Cystic Fibrosis Foundation,OTHER
+NCT04060329,Boston Children's Hospital,OTHER
+NCT01158937,Sunnybrook Health Sciences Centre,OTHER
+NCT01158937,University of Toronto,OTHER
+NCT01161537,Cystic Fibrosis Foundation,OTHER
+NCT02965326,Association Mucoviscidose-ABCF2,OTHER
+NCT02965326,Vaincre la Mucoviscidose,OTHER
+NCT03637504,University of Arizona,OTHER
+NCT03637504,Johns Hopkins University,OTHER
+NCT03637504,Cystic Fibrosis Foundation,OTHER
+NCT03070522,Canadian Cystic Fibrosis Foundation,OTHER
+NCT02323100,University of Alabama at Birmingham,OTHER
+NCT02323100,Children's Hospital of Philadelphia,OTHER
+NCT02323100,Johns Hopkins University,OTHER
+NCT02323100,"Horizon Pharma Ireland, Ltd., Dublin Ireland",INDUSTRY
+NCT04039087,Augusta University,OTHER
+NCT04039087,Cystic Fibrosis Foundation,OTHER
+NCT01706445,"Hospital Infantil Universitario Niño Jesús, Madrid, Spain",OTHER
+NCT02342964,Vaincre la Mucoviscidose,OTHER
+NCT02342964,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT07696338,Cystic Fibrosis Foundation,OTHER
+NCT00333385,Vaincre la Mucoviscidose,OTHER
+NCT00333385,GlaxoSmithKline,INDUSTRY
+NCT00333385,Baxter Healthcare Corporation,INDUSTRY
+NCT00333385,Roche Pharma AG,INDUSTRY
+NCT04884308,Cystic Fibrosis Foundation,OTHER
+NCT06350149,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT04176328,Sintesi Research Srl,INDUSTRY
+NCT04176328,Aptuit,INDUSTRY
+NCT04176328,Pari Pharma GmbH,INDUSTRY
+NCT01915875,Fondation de France,OTHER
+NCT01915875,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT06284577,Norwegian National Adivisory Unit on Rare Disorders,OTHER
+NCT03993600,Université de Liège,OTHER
+NCT01253733,"University of California, San Diego",OTHER
+NCT03921229,Cystic Fibrosis Foundation,OTHER
+NCT03921229,Johns Hopkins University,OTHER
+NCT03921229,University of Kansas Medical Center,OTHER
+NCT03921229,West Virginia University,OTHER
+NCT03492567,Vaincre la Mucoviscidose,OTHER
+NCT03492567,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT01450267,Federico II University,OTHER
+NCT05561764,Merck Sharp & Dohme LLC,INDUSTRY
+NCT05561764,Q2 Solutions,INDUSTRY
+NCT05561764,Connecticut Children's Medical Center,OTHER
+NCT05561764,St. Christopher's Hospital for Children,OTHER
+NCT05561764,University of Texas Southwestern Medical Center,OTHER
+NCT05561764,University of Pittsburgh Medical Center,OTHER
+NCT05561764,Indiana University Health Methodist Hospital,OTHER
+NCT05561764,James Whitcomb Riley Hospital for Children,OTHER
+NCT03258853,"Beta Bionics, Inc.",INDUSTRY
+NCT04777344,Cystic Fibrosis Foundation,OTHER
+NCT02750501,Cystic Fibrosis Foundation,OTHER
+NCT02819856,Medical University of South Carolina,OTHER
+NCT02819856,Cystic Fibrosis Foundation,OTHER
+NCT01746095,"Synteract, Inc.",INDUSTRY
+NCT01746095,Cystic Fibrosis Foundation,OTHER
+NCT01426256,Cystic Fibrosis Foundation,OTHER
+NCT01463371,Sociedad Valenciana de Neumología,UNKNOWN
+NCT03489629,University of Washington,OTHER
+NCT03489629,Cook Children's Medical Center,OTHER
+NCT03489629,Indiana University,OTHER
+NCT03489629,University of Michigan,OTHER
+NCT03489629,University of Texas Southwestern Medical Center,OTHER
+NCT03489629,St. Louis Children's Hospital,OTHER
+NCT01293019,Vaincre la Mucoviscidose,OTHER
+NCT01293019,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT01270347,Forest Laboratories,INDUSTRY
+NCT04294043,Cystic Fibrosis Foundation,OTHER
+NCT02110914,Gilead Sciences,INDUSTRY
+NCT04451213,Cardiff University,OTHER
+NCT02324855,Hospital Clinic of Barcelona,OTHER
+NCT03423576,"Federal Ministry of Health, Germany",OTHER_GOV
+NCT03423576,Wuerzburg University Hospital,OTHER
+NCT03423576,Hannover Medical School,OTHER
+NCT03423576,Goethe University,OTHER
+NCT03423576,CF-Center Hamburg-Altona,UNKNOWN
+NCT03423576,University Hospital Ulm,OTHER
+NCT03423576,"Medical Association of Lower Saxony (Ärztekammer Niedersachsen), Germany",UNKNOWN
+NCT02104245,Grifols Therapeutics LLC,INDUSTRY
+NCT03104855,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT06122025,University of Leeds,OTHER
+NCT06122025,Cystic Fibrosis Trust,OTHER
+NCT06122025,Leeds Beckett University,OTHER
+NCT00728715,Esteve,OTHER
+NCT04705636,Rennes University Hospital,OTHER
+NCT04696484,Cystic Fibrosis Foundation,OTHER
+NCT07376187,Attikon Hospital,OTHER
+NCT01299194,NHS Lothian,OTHER_GOV
+NCT01944735,Celerion,INDUSTRY
+NCT03988816,Fundação de Amparo à Pesquisa do Estado de São Paulo,OTHER_GOV
+NCT04531410,"European Society of Pediatric Gastroenterology, Hepatology and Nutrition",OTHER
+NCT05668741,"Moderna, Inc",UNKNOWN
+NCT03078127,Cystic Fibrosis Foundation,OTHER
+NCT00004779,University of North Carolina,OTHER
+NCT00635141,Canadian Cystic Fibrosis Foundation,OTHER
+NCT05548283,University of Washington,OTHER
+NCT05548283,Medical University of South Carolina,OTHER
+NCT05548283,Cystic Fibrosis Foundation,OTHER
+NCT00072904,Cystic Fibrosis Foundation,OTHER
+NCT00072904,Novo Nordisk A/S,INDUSTRY
+NCT06565832,King's College London,OTHER
+NCT02134899,Novartis,INDUSTRY
+NCT00909532,Cystic Fibrosis Foundation,OTHER
+NCT05712538,Novotech CRO,UNKNOWN
+NCT00809094,Cystic Fibrosis Foundation,OTHER
+NCT02061852,CEISO,INDUSTRY
+NCT02061852,"University Hospital, Marseille",OTHER
+NCT00659529,Cystic Fibrosis Foundation,OTHER
+NCT02498535,Cystic Fibrosis Foundation,OTHER
+NCT02498535,Mallinckrodt,INDUSTRY
+NCT06035055,The Prince Charles Hospital,OTHER_GOV
+NCT06035055,Mater,OTHER
+NCT04608019,Cystic Fibrosis Foundation,OTHER
+NCT01055847,"Salus Pharma, Inc.",INDUSTRY
+NCT00004705,University of North Carolina,OTHER
+NCT04254705,Vertex Pharmaceuticals Incorporated,INDUSTRY
+NCT04254705,KU Leuven,OTHER
+NCT04254705,University of Lisbon,OTHER
+NCT03506061,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT03506061,Cystic Fibrosis Foundation,OTHER
+NCT03506061,"The University of Texas Health Science Center, Houston",OTHER
+NCT06487273,Icadom,INDUSTRY
+NCT06487273,Clinact,OTHER
+NCT04274413,The National Pancreas Foundation,OTHER
+NCT04574050,King's College London,OTHER
+NCT07223255,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT03482960,Cystic Fibrosis Foundation,OTHER
+NCT04589897,University Hospital of Wales,OTHER
+NCT06457451,Fondation Ildys,OTHER
+NCT01013896,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT03262142,"Rigshospitalet, Denmark",OTHER
+NCT00244270,Vaincre la Mucoviscidose,OTHER
+NCT05743946,The Marcus Foundation,OTHER
+NCT00231686,Mukoviszidose eV (German CF society),UNKNOWN
+NCT00231686,Schweizer CF-Gesellschaft (Swiss CF society),UNKNOWN
+NCT00231686,Hannover Medical School,OTHER
+NCT00231686,Goethe University,OTHER
+NCT00231686,Triemli Hospital,OTHER
+NCT06032273,Cystic Fibrosis Foundation,OTHER
+NCT00004440,Case Western Reserve University,OTHER
+NCT01031706,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT01094704,Johns Hopkins University,OTHER
+NCT01094704,Novartis Pharmaceuticals,INDUSTRY
+NCT00222521,Sanofi,INDUSTRY
+NCT00222521,"Moran, Antoinette, M.D.",INDIV
+NCT05980221,Pancreatic Cancer UK,OTHER
+NCT01702415,Novartis Pharmaceuticals,INDUSTRY
+NCT04242420,Goethe University,OTHER
+NCT04242420,Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),OTHER
+NCT02526004,"Queen's University, Belfast",OTHER
+NCT02526004,University of Paris 5 - Rene Descartes,OTHER
+NCT02526004,University of Dundee,OTHER
+NCT02526004,University of Washington,OTHER
+NCT02526004,University Hospital Heidelberg,OTHER
+NCT02526004,Teagasc,INDUSTRY
+NCT02526004,Clininfo S.A.,INDUSTRY
+NCT02526004,GABO:mi,INDUSTRY
+NCT02526004,Papworth Hospital NHS Foundation Trust,OTHER_GOV
+NCT02526004,KU Leuven,OTHER
+NCT02526004,Assistance Publique - Hôpitaux de Paris,OTHER
+NCT02526004,European Union,OTHER
+NCT06237348,Medical University of Lodz,OTHER
+NCT06237348,University Hospital in Krakow,OTHER
+NCT06350474,Cystic Fibrosis Foundation,OTHER
+NCT06350474,Dartmouth-Hitchcock Medical Center,OTHER
+NCT06350474,University of Washington,OTHER
+NCT04602468,Imperial College London,OTHER
+NCT04602468,University College Dublin,OTHER
+NCT04602468,University of Limerick,OTHER
+NCT04602468,Cystic Fibrosis Registry of Ireland,OTHER
+NCT04602468,Erasmus Medical Center,OTHER
+NCT04602468,Medizinische Hochschule Brandenburg Theodor Fontane,OTHER
+NCT04602468,Teagasc,INDUSTRY
+NCT04602468,The Hospital for Sick Children,OTHER
+NCT04602468,"St. James's Hospital, Ireland",OTHER
+NCT04602468,Amsterdam UMC,OTHER
+NCT04602468,Children's Health Ireland,OTHER_GOV
+NCT02057458,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00685035,Hill-Rom,INDUSTRY
+NCT01288170,Hospices Civils de Lyon,OTHER
+NCT01288170,University of Lyon,OTHER
+NCT01262352,Cystic Fibrosis Foundation,OTHER
+NCT05802264,DevPro Biopharma,INDUSTRY
+NCT02234401,Manchester University NHS Foundation Trust,OTHER_GOV
+NCT01515007,Grifols Therapeutics LLC,INDUSTRY
+NCT05614336,"Queen's University, Belfast",OTHER
+NCT01882400,Procter and Gamble,INDUSTRY
+NCT04496921,Université de Montréal,OTHER
+NCT01355796,Ann & Robert H Lurie Children's Hospital of Chicago,OTHER
+NCT01355796,Northwestern University,OTHER
+NCT01057524,Royal Brompton & Harefield NHS Foundation Trust,OTHER
+NCT01057524,Hill-Rom,INDUSTRY
+NCT02372383,Cystic Fibrosis Foundation,OTHER
+NCT02372383,Colorado Clinical & Translational Sciences Institute,OTHER
+NCT02501369,Manchester University NHS Foundation Trust,OTHER_GOV
+NCT01621867,University of Edinburgh,OTHER
+NCT01621867,University of Oxford,OTHER
+NCT01621867,Royal Brompton & Harefield NHS Foundation Trust,OTHER
+NCT04888767,Lille Catholic University,OTHER
+NCT02919995,Cystic Fibrosis Trust,OTHER
+NCT00431964,Cystic Fibrosis Foundation,OTHER
+NCT01051999,"Emmaus Medical, Inc.",INDUSTRY
+NCT06902363,EliTechGroup,UNKNOWN
+NCT03939065,Cystic Fibrosis Foundation,OTHER
+NCT06616857,Cystic Fibrosis Foundation,OTHER
+NCT02605538,Karolinska Institutet,OTHER
+NCT02603666,Karolinska Institutet,OTHER
+NCT07031323,Cystic Fibrosis Foundation,OTHER
+NCT07031323,Johns Hopkins University,OTHER
+NCT07031323,University of Alabama at Birmingham,OTHER
+NCT06030206,National Institute of Nursing Research (NINR),NIH
+NCT00248755,Cystic Fibrosis Foundation,OTHER
+NCT01837355,Swiss Federal Institute of Technology,OTHER
+NCT01837355,"Insel Gruppe AG, University Hospital Bern",OTHER
+NCT02703155,"University College, London",OTHER
+NCT06280066,TC Erciyes University,OTHER
+NCT02212431,Cystic Fibrosis Trust,OTHER
+NCT02212431,NHS Grampian,OTHER_GOV
+NCT02212431,University of Huddersfield,OTHER
+NCT03992027,Cystic Fibrosis Foundation,OTHER
+NCT03992027,"DeltaQuest Foundation, Inc.",UNKNOWN
+NCT03992027,University at Buffalo,OTHER
+NCT03992027,University of Kansas Medical Center,OTHER
+NCT03992027,Stanford University,OTHER
+NCT00241969,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT02721498,"National Institute for Health Research, United Kingdom",OTHER_GOV
+NCT04476433,Hospital General Universitario de Valencia,OTHER
+NCT04476433,Hospital Clínico Universitario de Valencia,OTHER
+NCT04476433,Hospital Universitario La Fe,OTHER
+NCT05359991,Children's Hospital of Orange County,OTHER
+NCT05359991,Children's Hospital Los Angeles,OTHER
+NCT05359991,Ann & Robert H Lurie Children's Hospital of Chicago,OTHER
+NCT05408910,Nationwide Children's Hospital,OTHER
+NCT05408910,University of Minnesota,OTHER
+NCT05408910,University of Texas Southwestern Medical Center,OTHER
+NCT02261987,Cystic Fibrosis Foundation,OTHER
+NCT00953706,Cystic Fibrosis Foundation,OTHER
+NCT02866721,Case Western Reserve University,OTHER
+NCT02866721,Cystic Fibrosis Foundation,OTHER
+NCT06147778,Vertex Pharmaceuticals Incorporated,INDUSTRY
+NCT00308243,"Cellular Sciences, inc.",INDUSTRY
+NCT07148739,National Institutes of Health (NIH),NIH
+NCT07148739,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT01753869,"Queen's University, Belfast",OTHER
+NCT01753869,University of Ulster,OTHER
+NCT00547053,Cystic Fibrosis Foundation,OTHER
+NCT00005112,"Genentech, Inc.",INDUSTRY
+NCT00073463,Cystic Fibrosis Foundation,OTHER
+NCT06368804,Assistance Publique - Hôpitaux de Paris,OTHER
+NCT01180634,Forest Laboratories,INDUSTRY
+NCT03497117,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00016744,Cystic Fibrosis Foundation,OTHER
+NCT00016744,National Center for Research Resources (NCRR),NIH
+NCT02840136,King Baudouin Foundation,OTHER
+NCT02840136,Belgische Vereniging voor Strijd tegen Mucoviscidose,UNKNOWN
+NCT02538575,Data analysis : EFFI-STAT (statistic expert),UNKNOWN
+NCT02538575,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT02538575,Funding : Association Vaincre La Mucoviscidose,UNKNOWN
+NCT00846053,Cystic Fibrosis Foundation,OTHER
+NCT03451045,Cystic Fibrosis Foundation,OTHER
+NCT05095246,Novotech (Australia) Pty Limited,INDUSTRY
+NCT01614470,Cystic Fibrosis Foundation,OTHER
+NCT00418470,Italian Cystic Fibrosis Research Foundation,OTHER
+NCT00418470,Ospedale Meyer,OTHER
+NCT04809207,University of Washington,OTHER
+NCT04809207,Cystic Fibrosis Foundation,OTHER
+NCT05740618,"Chiesi USA, Inc.",INDUSTRY
+NCT04461561,Babylon University,OTHER
+NCT01104402,University of Washington,OTHER
+NCT01104402,National Institutes of Health (NIH),NIH
+NCT01104402,Cystic Fibrosis Foundation,OTHER
+NCT01104402,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT04966897,Baylor College of Medicine,OTHER
+NCT00817180,Canadian Cystic Fibrosis Foundation,OTHER
+NCT00996424,BVSM,UNKNOWN
+NCT01349192,CF Therapeutics Development Network Coordinating Center,NETWORK
+NCT01349192,Seattle Children's Hospital,OTHER
+NCT01349192,Washington University School of Medicine,OTHER
+NCT01349192,University of Washington,OTHER
+NCT01349192,"University of Colorado, Denver",OTHER
+NCT01349192,Baylor College of Medicine,OTHER
+NCT01349192,University of Alabama at Birmingham,OTHER
+NCT01349192,Cook Children's Medical Center,OTHER
+NCT01349192,University of Michigan,OTHER
+NCT01349192,University of Florida,OTHER
+NCT01349192,University of Texas Southwestern Medical Center,OTHER
+NCT01349192,"Children's Hospital Medical Center, Cincinnati",OTHER
+NCT01349192,St. Louis Children's Hospital,OTHER
+NCT01315665,Cystic Fibrosis Foundation,OTHER
+NCT04825236,Cystic Fibrosis Foundation,OTHER
+NCT00234663,Cystic Fibrosis Foundation,OTHER
+NCT00234663,FDA Office of Orphan Products Development,FED
+NCT02869932,Vaincre la Mucoviscidose,OTHER
+NCT02869932,French society of cystic fibrosis,UNKNOWN
+NCT02869932,AFDPHE : newborn screening of the French Society of Cystic Fibrosis,UNKNOWN
+NCT01615484,Duke University,OTHER
+NCT01615484,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT01615484,Vitrolife,INDUSTRY
+NCT01615484,XVIVO Perfusion,INDUSTRY
+NCT00177645,Cystic Fibrosis Foundation,OTHER
+NCT06468527,European Union,OTHER
+NCT03052556,Vaincre la Mucoviscidose,OTHER
+NCT04731272,Children's Hospital of Philadelphia,OTHER
+NCT04731272,Children's Hospital Colorado,OTHER
+NCT01172301,Arkansas Children's Hospital Research Institute,OTHER
+NCT00411736,Cystic Fibrosis Foundation,OTHER
+NCT02421120,"Cubist Pharmaceuticals LLC, a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",INDUSTRY
+NCT02421120,Indiana University Health,OTHER
+NCT02421120,University of North Carolina,OTHER
+NCT02421120,St. Christopher's Hospital for Children,OTHER
+NCT00528190,The Hospital for Sick Children,OTHER
+NCT00528190,Canadian Cystic Fibrosis Foundation,OTHER
+NCT00528190,The Physicians' Services Incorporated Foundation,OTHER
+NCT00219882,Seer Pharmaceuticals,INDUSTRY
+NCT00219882,CF Therapeutics Development Network Coordinating Center,NETWORK
+NCT00219882,Cystic Fibrosis Foundation,OTHER
+NCT05766774,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT02994706,"National Institute for Health Research, United Kingdom",OTHER_GOV
+NCT02994706,University of Birmingham,OTHER
+NCT00004806,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT02715921,"University of California, Irvine",OTHER
+NCT00909727,Cystic Fibrosis Foundation,OTHER
+NCT00014950,National Center for Research Resources (NCRR),NIH
+NCT05135156,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT05135156,Cystic Fibrosis Foundation,OTHER
+NCT05704036,Cystic Fibrosis Foundation,OTHER
+NCT02694393,"Mast Therapeutics, Inc.",INDUSTRY
+NCT02694393,Cystic Fibrosis Foundation,OTHER
+NCT02444234,Merck Sharp & Dohme LLC,INDUSTRY
+NCT04249999,Cystic Fibrosis Trust,OTHER
+NCT04249999,Sport England,OTHER
+NCT04249999,Monash University,OTHER
+NCT05482048,"Royal Hospital for Children and Young People, Edinburgh",UNKNOWN
+NCT05482048,University of Edinburgh,OTHER
+NCT05482048,Cystic Fibrosis Trust,OTHER
+NCT05482048,Northumbria University,OTHER
+NCT05482048,University of Portsmouth,OTHER
+NCT05482048,Queen Elizabeth University Hospital Glasgow,UNKNOWN
+NCT05482048,Newcastle-upon-Tyne Hospitals NHS Trust,OTHER
+NCT01232478,"Genentech, Inc.",INDUSTRY
+NCT01232478,Cystic Fibrosis Foundation,OTHER
+NCT01232478,Novartis,INDUSTRY
+NCT01232478,University of Miami,OTHER
+NCT05271643,University at Buffalo,OTHER
+NCT05271643,University of Kansas Medical Center,OTHER
+NCT05271643,Behavioral Health Systems Research,UNKNOWN
+NCT01851694,Children's Hospital of Philadelphia,OTHER
+NCT07709494,National Institute of Allergy and Infectious Diseases (NIAID),NIH
+NCT04017559,"Queen's University, Belfast",OTHER
+NCT07314229,Vaincre la Mucoviscidose,OTHER
+NCT02950805,Parexel,INDUSTRY
+NCT04684823,Patch Rx Technologies,UNKNOWN
+NCT04453358,Johns Hopkins University,OTHER
+NCT00639626,Novo Nordisk A/S,INDUSTRY
+NCT06012084,Saskatchewan Health Authority - Regina Area,OTHER
+NCT06012084,Provincial Health Services Authority British Columbia,OTHER
+NCT00256555,"Genentech, Inc.",INDUSTRY
+NCT04938726,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT06020274,Saskatchewan Health Authority - Regina Area,OTHER
+NCT06020274,Provincial Health Services Authority British Columbia,OTHER
+NCT06617013,Cystic Fibrosis Foundation,OTHER
+NCT00097773,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT00097773,Cystic Fibrosis Foundation,OTHER
+NCT00097773,CF Therapeutics Development Network Coordinating Center,NETWORK
+NCT02884622,Vaincre la Mucoviscidose,OTHER
+NCT02884622,"Institut National de la Santé Et de la Recherche Médicale, France",OTHER_GOV
+NCT03873688,Istanbul University,OTHER
+NCT04259970,University of Virginia,OTHER
+NCT04259970,"University of Wisconsin, Madison",OTHER
+NCT04259970,The Hospital for Sick Children,OTHER
+NCT01509339,Cystic Fibrosis Foundation,OTHER
+NCT01812551,Fondazione Telethon,OTHER
+NCT03237767,"Queen Alexandra Hospital, Portsmouth",UNKNOWN
+NCT03237767,University Hospital Southampton NHS Foundation Trust,OTHER
+NCT03237767,Loughborough University,OTHER
+NCT06810167,Ardelyx,INDUSTRY
+NCT07559175,Parexel,INDUSTRY
+NCT01537666,INC Research Limited,INDUSTRY
+NCT00628134,Cystic Fibrosis Foundation,OTHER
+NCT00265434,"PD Dr. Joachim Riethmöller, Tübingen",UNKNOWN
+NCT00265434,"PD Dr. Assen Koitschev, Tübingen",UNKNOWN
+NCT00265434,Dr. Gerlind Schneider,UNKNOWN
+NCT00004428,SciClone Pharmaceuticals,INDUSTRY
+NCT02468908,Celerion,INDUSTRY
+NCT02709109,Vertex Pharmaceuticals Incorporated,INDUSTRY
+NCT02202876,Cystic Fibrosis Foundation,OTHER
+NCT05515250,Washington University School of Medicine,OTHER
+NCT03292718,Hospital Universitario La Fe,OTHER
+NCT03292718,European Commission,OTHER
+NCT05523180,"Nutrasource Pharmaceutical and Nutraceutical Services, Inc.",NETWORK
+NCT05463289,National Eye Institute (NEI),NIH
+NCT05463289,Juvenile Diabetes Research Foundation,OTHER
+NCT00322868,Cystic Fibrosis Foundation,OTHER
+NCT04006873,Vertex Pharmaceuticals Incorporated,INDUSTRY
+NCT04006873,Cystic Fibrosis Foundation,OTHER
+NCT04006873,Cystic Fibrosis Trust,OTHER
+NCT04006873,University of Nottingham,OTHER
+NCT05100823,"Foch Hospital, Suresnes, FRANCE",UNKNOWN
+NCT05100823,Hôpital Necker-Enfants Malades,OTHER
+NCT05100823,Hôpital Cochin,OTHER
+NCT00416182,"Genentech, Inc.",INDUSTRY
+NCT01070446,Cystic Fibrosis Foundation,OTHER
+NCT06313827,Asociación de Fibrosis Quística - Comunidad Valenciana,UNKNOWN
+NCT03357562,"Ministry of Health, France",OTHER_GOV
+NCT00709280,Cystic Fibrosis Foundation,OTHER
+NCT00709280,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT02810691,Canadian Cystic Fibrosis Foundation,OTHER
+NCT02810691,Université de Montréal,OTHER
+NCT04644471,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT00476281,Association d'Aide aux Insuffisants Respiratoires d'Alsace Lorraine,OTHER
+NCT01299181,NHS Lothian,OTHER_GOV

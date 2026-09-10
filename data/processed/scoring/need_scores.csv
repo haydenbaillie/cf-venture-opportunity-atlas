@@ -1,0 +1,9 @@
+need_id,patient_need,treatment_gap,competitive_whitespace,tractability,economic,why_now,score_default,display_default,score_patient_impact,display_patient_impact,score_venture_creation,display_venture_creation,score_commercial,display_commercial,rank_default,n_industry_whitespace,crowding_band,n_map_assets,n_academic_map_assets,n_auto_suggested_active_cf_like,evidence_confidence,display_line,category,subcategory
+N5,4,3,5,3,4,4,77.0,77,74.0,74,78.0,78,80.0,80,1,0,none,6,5,5,Moderate,Opportunity Score: 77/100 · Evidence: Moderate,CF-related diabetes and metabolic disease,CFRD screening and treatment
+N1,4,5,1,4,4,4,72.0,72,79.0,79,68.0,68,68.0,68,2,13,high,16,3,0,High,Opportunity Score: 72/100 · Evidence: High,Restoration of CFTR function,Mutation-agnostic genetic medicines
+N4,3,3,4,3,4,3,66.0,66,63.0,63,66.0,66,70.0,70,3,1,low,9,3,1,Moderate,Opportunity Score: 66/100 · Evidence: Moderate,Chronic infection,PA MRSA NTM biofilms AMR
+N3,3,3,3,3,4,3,62.0,62,61.0,61,61.0,61,65.0,65,4,0,none,6,2,6,Moderate,Opportunity Score: 62/100 · Evidence: Moderate,Pulmonary disease despite modulators,Residual lung disease exacerbations inflammation structural damage
+N8,3,3,4,3,2,3,62.0,62,61.0,61,64.0,64,60.0,60,4,0,none,0,0,17,Moderate,Opportunity Score: 62/100 · Evidence: Moderate,Treatment burden and care delivery,Adherence adult care remote monitoring
+N7,3,2,5,2,2,4,61.0,61,57.0,57,64.0,64,62.0,62,6,0,none,0,0,0,Moderate,Opportunity Score: 61/100 · Evidence: Moderate,Aging with CF,Adult and older-adult complications
+N6,3,3,3,3,3,3,60.0,60,60.0,60,60.0,60,60.0,60,7,2,moderate,8,3,1,Moderate,Opportunity Score: 60/100 · Evidence: Moderate,Gastrointestinal and nutritional disease,Malabsorption PERT CF liver disease
+N2,2,2,2,4,2,2,46.0,46,46.0,46,48.0,48,44.0,44,8,4,moderate,9,0,9,Moderate,Opportunity Score: 46/100 · Evidence: Moderate,Restoration of CFTR function,Eligible but not prescribed or intolerant

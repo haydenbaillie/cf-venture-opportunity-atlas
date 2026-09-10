@@ -1,0 +1,29 @@
+claim_id,layer,need_id,statement,value_numeric,unit,year,source_id,stat_id,notes
+C001,fact,,People with CF in the 2024 CFF Patient Registry,33989.0,count,2024,cff_registry_adr_2024,people_with_cf_2024,US CFF-accredited care centers; consenting Registry participants.
+C002,fact,N7,Predicted median survival rose from 38.0 years (2009) to 65.4 years (2024),65.4,years,2024,cff_registry_adr_2024,median_survival_2024,2009 value 38.0; 95% CI in 2024 was 63.6-68.1.
+C003,fact,N7,Adults aged 18+ as a share of the Registry,61.6,percent,2024,cff_registry_adr_2024,adults_pct_2024,Was 33.8% in 1994.
+C004,fact,N1,Share eligible for at least one CFTR modulator after Alyftrek approval,92.0,percent,2024,cff_registry_adr_2024,modulator_eligible_after_vtd,Approximate figure as published. 2024 charts generally still classify VTD-only patients as ineligible unless explicitly stated.
+C005,fact,N1,Ineligible for a CFTRm by age or CFTR genotype,2434.0,count,2024,cff_registry_adr_2024,modulator_ineligible_n_2024,CFF text: total 2434 ineligible by age or genotype.
+C006,fact,N1,Modulator-ineligible adolescents and adults with Registry data,1226.0,count,2024,cff_registry_adr_2024,modulator_ineligible_adolescents_adults_2024,Of 2434 ineligible by age or genotype.
+C007,fact,N2,"Aged 12+ in 2020 and eligible then, with no CFTRm prescription 2022-2024",623.0,count,2024,cff_registry_adr_2024,eligible_not_prescribed_ge12,Reasons are mixed (side effects perceived stability access).
+C008,fact,N1,Prescribed a modulator among ages 12+,87.5,percent,2024,cff_registry_adr_2024,modulator_rx_ge12_2024,
+C009,fact,N3,Mean FEV1 percent predicted among ages >7,89.1,percent_predicted,2024,cff_registry_adr_2024,fev1_2024,Was 79.0 in 2009. Ages 40-49 mean is 72.8.
+C010,fact,N3,Treated with IV antibiotics for a pulmonary exacerbation,12.1,percent,2024,cff_registry_adr_2024,pex_iv_pct_2024,Was 35.8% in 2009.
+C011,fact,N3,Lung transplants (all procedures) in the reporting year,61.0,count,2024,cff_registry_adr_2024,lung_transplant_2024,Was 249.0 in 2019.
+C012,fact,N4,Pseudomonas aeruginosa in any culture,23.3,percent,2024,cff_registry_adr_2024,pa_pct_2024,Was 52.0% in 2009. Fewer cultures since 2020 affect ascertainment.
+C013,fact,N4,Mycobacterial species among those with a mycobacterial culture,11.6,percent,2024,cff_registry_adr_2024,ntm_pct_2024,Ages 60+ : 18.7%.
+C014,fact,N5,CFRD prevalence in the complications population (transplant-censored),19.2,percent,2024,cff_registry_adr_2024,cfrd_pct_2024_all,Adults 29.3%. Denominator is not the full 33989 demographic total.
+C015,fact,N6,Pancreatic enzyme replacement therapy,80.2,percent,2024,cff_registry_adr_2024,pert_pct_2024,
+C016,fact,N6,"Liver disease, cirrhosis, in the complications population",2.7,percent,2024,cff_registry_adr_2024,liver_cirrhosis_pct_2024,
+C017,fact,N7,People with CF aged 60 and older,1437.0,count,2024,cff_registry_adr_2024,age_ge60_n_2024,
+C018,fact,N7,Anxiety disorder among adults,31.9,percent,2024,cff_registry_adr_2024,anxiety_pct_2024_ge18,Adult depression 30.2%.
+C019,fact,N8,Mean outpatient CF center visits per year,3.0,count,2024,cff_registry_adr_2024,clinic_visits_mean_2024,Was 4.3 in 2019. Dornase 80.6% and hypertonic saline 62.6% among ages >=6.
+C020,analysis,,Interventional ClinicalTrials.gov records tagged to cystic fibrosis,1209.0,count,2026,clinicaltrials_gov_api_v2,,Retrieved 2026-09-09T22:49:42+00:00. Sponsor-reported. Includes studies that mention CF without CF being the intended disease.
+C021,analysis,,Records flagged as likely non-CF bronchiectasis / non-cystic fibrosis tagging noise,98.0,count,2026,clinicaltrials_gov_api_v2,,"Heuristic on title, official title, summary, and conditions. Not a reviewed classification. See ncfb_flagged_trials.csv."
+C022,analysis,,CF-like interventional records after NCFB heuristic exclusion,1111.0,count,2026,clinicaltrials_gov_api_v2,,Remainder can still include non-CF muco-obstructive or mixed-disease studies.
+C023,analysis,,Recruiting CF-like interventional studies,62.0,count,2026,clinicaltrials_gov_api_v2,,75 recruiting in the unfiltered CF-tagged set. Industry 11; class OTHER 51.
+C024,analysis,,"Active-like CF-like studies (recruiting, not yet recruiting, active not recruiting, enrolling by invitation)",106.0,count,2026,clinicaltrials_gov_api_v2,,
+C025,analysis,,Interventional CF-tagged studies with start year 2015 (peak in this snapshot),76.0,count,2015,clinicaltrials_gov_api_v2,,2024 starts: 47. 2026 starts: 30 (partial calendar year as of retrieval).
+C026,interpretation,N1,"Modulators have reached most US Registry patients, but a four-digit ineligible group and a three-digit eligible-not-prescribed group remain visible in published aggregates",2434.0,count,2024,cff_registry_adr_2024,modulator_ineligible_n_2024,Interpretation of C005 and C007 together. Not a TAM.
+C027,interpretation,N3,"Pulmonary outcomes improved sharply after modulators, but exacerbations, advanced lung disease, and lower FEV1 in older adults show residual lung disease is not solved",12.1,percent,2024,cff_registry_adr_2024,pex_iv_pct_2024,Do not read mean FEV1 89.1% as absence of a pulmonary problem.
+C028,hypothesis,,Industry recruiting activity in the raw CF-tagged set is inflated by non-CF bronchiectasis programs; whitespace conclusions must use a reviewed CF universe,98.0,count,2026,clinicaltrials_gov_api_v2,,Hypothesis for Phase 4 classification. Heuristic only.

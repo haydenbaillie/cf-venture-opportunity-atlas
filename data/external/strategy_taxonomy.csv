@@ -1,0 +1,19 @@
+strategy_id,label,parent_id,description,cff_pipeline_group
+cftr_modulator,CFTR modulators,,Small-molecule potentiators correctors amplifiers or stabilizers acting on CFTR protein,Restore CFTR Protein
+nonsense_readthrough,Nonsense readthrough,cftr_modulator,Agents intended to override premature stop codons in CFTR,Restore CFTR Protein
+genetic_therapy,Genetic therapy,,Parent class for nucleic-acid and gene-targeted CFTR restoration,Genetic Therapy
+mrna,CFTR mRNA,genetic_therapy,Delivery of CFTR-encoded mRNA to produce protein independent of genotype,Genetic Therapy
+gene_therapy,Gene replacement,genetic_therapy,Delivery of a functional CFTR coding sequence,Genetic Therapy
+gene_editing,Gene editing,genetic_therapy,Editing or inserting sequence at CFTR including prime editing,Genetic Therapy
+aso_oligonucleotide,Antisense / splicing oligonucleotides,genetic_therapy,Oligonucleotides that alter CFTR RNA processing,Genetic Therapy
+mucociliary_clearance,Mucociliary clearance,,Hydrators mucolytics ENaC inhibitors and related airway-surface approaches,Mucociliary Clearance
+anti_inflammatory,Anti-inflammatory,,Agents targeting airway inflammation independent of CFTR restoration,Anti-Inflammatory
+antimicrobial,Antimicrobial,,Small-molecule or biologic antibacterials including inhaled antibiotics,Anti-Infective
+phage,Bacteriophage,antimicrobial,Phage or phage-derived antibacterials,Anti-Infective
+antifungal,Antifungal,antimicrobial,Agents for fungal or mixed infection including aspergillus-targeted drugs,Anti-Infective
+metabolic_cfrd,Metabolic / CFRD,,Glucose regulation and other metabolic interventions in CF,Nutritional-GI
+gi_nutrition,GI and nutrition,,PERT bile acid GI motility liver and nutritional interventions,Nutritional-GI
+care_delivery,Care delivery / digital / behavioral,,Adherence monitoring adult care coordination and related non-drug interventions,Other
+anion_bypass,CFTR-independent anion transport,,Ionophores or other approaches that restore airway anion transport without repairing CFTR protein,Other
+diagnostic,Diagnostic / biomarker / imaging,,Sweat testing imaging and biomarker studies rather than therapeutic candidates,Other
+other,Other,,Does not fit the taxonomy or is insufficiently described,Other

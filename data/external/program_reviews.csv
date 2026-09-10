@@ -1,0 +1,58 @@
+program_id,activity_status,disease_area,strategy,need_ids,role,map_eligible,whitespace_relevant,crowding_unit,nct_ids,map_stage,review_status,review_notes
+cff-alyftrek,approved,cf,cftr_modulator,N2,label_expansion,1,0,1,NCT05422222;NCT05444257;NCT05844449,approved,reviewed,US-approved VTD. Pediatric/LTE trials are label expansion not whitespace.
+cff-trikafta,approved,cf,cftr_modulator,N2,label_expansion,1,0,1,NCT05331183;NCT06460506;NCT04602468;NCT07809867,approved,reviewed,US-approved ETI. Remaining trials are pediatric OLE or real-world/PK.
+cff-symdeko,approved,cf,cftr_modulator,N2,label_expansion,1,0,0,,approved,reviewed,Approved earlier-generation modulator. Crowding counted on Trikafta/Alyftrek as the current HEMT franchise.
+cff-orkambi,approved,cf,cftr_modulator,N2,label_expansion,1,0,0,,approved,reviewed,Approved earlier-generation modulator. Crowding_unit 0 to avoid five-count of one Vertex franchise.
+cff-kalydeco,approved,cf,cftr_modulator,N2,label_expansion,1,0,0,,approved,reviewed,Approved potentiator. Crowding_unit 0; still map-visible as approved.
+cff-4d-710,active_clinical,cf,gene_therapy,N1,therapeutic,1,1,1,NCT05248230,phase_2,reviewed,Recruiting Phase 2 AAV CFTR gene therapy.
+cff-arct-032,active_clinical,cf,mrna,N1,therapeutic,1,1,1,NCT06747858,phase_2,reviewed,Recruiting Phase 2 inhaled CFTR mRNA.
+cff-rct2100,active_clinical,cf,mrna,N1,therapeutic,1,1,1,NCT06237335,phase_2,reviewed,ACTIVE_NOT_RECRUITING Phase 2 CFTR mRNA.
+cff-spl84,active_clinical,cf,aso_oligonucleotide,N1,therapeutic,1,1,1,NCT06429176,phase_2,reviewed,Recruiting Phase 2 splicing oligonucleotide.
+cff-vx-522,active_clinical,cf,mrna,N1,therapeutic,1,1,1,NCT05668741,phase_1,reviewed,ACTIVE_NOT_RECRUITING Phase 1/2. CFF blurb used past tense; CT.gov status is still active-like so do not mark discontinued.
+cff-eluforsen,discontinued,cf,aso_oligonucleotide,N1,therapeutic,0,0,0,,phase_1,reviewed,Historical ProQR F508del oligonucleotide. No matching active CF trial. Off the map.
+cff-kb407,active_clinical,cf,gene_therapy,N1,therapeutic,1,1,1,NCT05504837,phase_1,reviewed,Recruiting Phase 1 inhaled gene therapy.
+cff-mrt5005,discontinued,cf,mrna,N1,therapeutic,0,0,0,,phase_1,reviewed,Translate Bio/Sanofi inhaled mRNA. Historical; no active CF trial in this snapshot.
+cff-sp-101,active_clinical,cf,gene_therapy,N1,therapeutic,1,1,1,NCT06526923,phase_1,reviewed,Recruiting Phase 1/2 AAV CFTR gene therapy.
+cff-gensaic,preclinical,cf,gene_therapy,N1,therapeutic,1,1,1,,preclinical,reviewed,CFF preclinical listing only. Incomplete by construction; low evidence-confidence for activity.
+cff-nanite,preclinical,cf,mrna,N1,therapeutic,1,1,1,,preclinical,reviewed,CFF preclinical delivery listing only.
+cff-prime-medicine,preclinical,cf,gene_editing,N1,therapeutic,1,1,1,,preclinical,reviewed,CFF preclinical prime-editing listing. No human CF trial in this snapshot.
+cff-vianautis,preclinical,cf,genetic_therapy,N1,therapeutic,1,1,1,,preclinical,reviewed,CFF preclinical non-viral delivery listing.
+cff-carbon-biosciences,listed_inactive_or_unclear,cf,gene_therapy,N1,therapeutic,0,0,0,,preclinical,reviewed,CFF description used past tense and no active CF trial. Do not put on the map.
+cff-carmine,listed_inactive_or_unclear,cf,gene_therapy,N1,therapeutic,0,0,0,,preclinical,reviewed,CFF past tense; no active CF trial.
+cff-pioneering-medicines,listed_inactive_or_unclear,cf,gene_editing,N1,therapeutic,0,0,0,,preclinical,reviewed,CFF past tense; no active CF trial.
+cff-recode-intellia,listed_inactive_or_unclear,cf,gene_editing,N1,therapeutic,0,0,0,,preclinical,reviewed,CFF past tense; ReCode's active human program in this snapshot is RCT2100 mRNA not this editing collab.
+cff-saliogen,listed_inactive_or_unclear,cf,gene_editing,N1,therapeutic,0,0,0,,preclinical,reviewed,CFF past tense; no active CF trial.
+cff-ataluren,discontinued,cf,nonsense_readthrough,N1,therapeutic,0,0,0,,phase_3,reviewed,CF development failed historically. Still listed on the CFF page snapshot; not map-eligible.
+cff-elx-02,listed_inactive_or_unclear,cf,nonsense_readthrough,N1,therapeutic,0,0,0,,phase_2,reviewed,No matching active CF-like trial in this snapshot. Do not treat as an active readthrough competitor.
+cff-sion-719,active_clinical,cf,cftr_modulator,N2,therapeutic,1,1,1,NCT07108153,phase_2,reviewed,Phase 2 NBD1 stabilizer.
+cff-sion-109,active_clinical,cf,cftr_modulator,N2,therapeutic,0,0,0,NCT07035990,phase_1,reviewed,Complementary modulator inside the SION-451 combination trial. Not a separate map asset; crowding counted on cff-sion-451.
+cff-sion-2222,active_clinical,cf,cftr_modulator,N2,therapeutic,0,0,0,NCT07035990,phase_1,reviewed,Complementary modulator inside the SION-451 combination trial. Not a separate map asset; crowding counted on cff-sion-451.
+cff-sion-451,active_clinical,cf,cftr_modulator,N2,therapeutic,1,1,1,NCT07035990,phase_1,reviewed,Phase 1 combination NBD1 stabilizer plus complementary correctors. One crowding unit.
+cff-sion-638,listed_no_active_cf_trial,cf,cftr_modulator,N2,therapeutic,0,0,0,,phase_1,reviewed,CFF Phase 1 listing with no matching active CF trial in this snapshot.
+cff-vx-828,listed_no_active_cf_trial,cf,cftr_modulator,N2,therapeutic,0,0,0,,phase_1,reviewed,CFF Phase 1 listing; no matching active CF trial (VX-581/VX-272 HV studies are separate trial-derived assets).
+cff-southern-research,preclinical,cf,nonsense_readthrough,N1,therapeutic,1,1,1,,preclinical,reviewed,CFF preclinical discovery listing only.
+cff-pulmozyme,approved,cf,mucociliary_clearance,N3,therapeutic,1,0,1,,approved,reviewed,Approved DNase. Standard mucolytic class.
+cff-hypertonic-saline,standard_of_care,cf,mucociliary_clearance,N3,therapeutic,1,0,1,,standard_of_care,reviewed,SoC hydrator rather than a company-formation asset.
+cff-bronchitol,approved,cf,mucociliary_clearance,N3,therapeutic,1,0,0,,approved,reviewed,Approved inhaled mannitol. Crowding_unit 0 versus Pulmozyme/HS as the SoC class representatives.
+cff-verducatib,not_cf_primary,ncfb,anti_inflammatory,N3,not_cf_primary,0,0,0,,phase_3,reviewed,DPP1-class listing with no CF-like active trial in this snapshot. Treat as not CF-primary until a CF protocol appears.
+cff-brensocatib,not_cf_primary,ncfb,anti_inflammatory,N3,not_cf_primary,0,0,0,,phase_2,reviewed,Primary development is NCFB. Exclude from CF map.
+cff-acebilustat,discontinued,cf,anti_inflammatory,N3,therapeutic,0,0,0,,phase_2,reviewed,CF anti-inflammatory program did not proceed. Off the map.
+cff-lau-7b,listed_no_active_cf_trial,cf,anti_inflammatory,N3,therapeutic,0,0,0,,phase_2,reviewed,No matching active CF-like trial in this snapshot.
+cff-high-dose-ibuprofen,standard_of_care,cf,anti_inflammatory,N3,therapeutic,1,0,0,,standard_of_care,reviewed,Generic SoC for selected patients. Not whitespace.
+cff-tobramycin,approved,cf,antimicrobial,N4,therapeutic,1,0,1,,approved,reviewed,Approved inhaled antipseudomonal. Class representative for approved inhaled antibiotics.
+cff-tobi-podhaler,approved,cf,antimicrobial,N4,therapeutic,1,0,0,,approved,reviewed,Dry-powder tobramycin. Crowding counted on inhaled tobramycin class.
+cff-cayston,approved,cf,antimicrobial,N4,therapeutic,1,0,0,,approved,reviewed,Approved inhaled aztreonam. Crowding counted on tobramycin as class representative.
+cff-azithromycin,standard_of_care,cf,antimicrobial,N4,therapeutic,1,0,0,,standard_of_care,reviewed,Widely used macrolide. Not a new product.
+cff-arikayce,not_cf_primary,mixed,antimicrobial,N4,not_cf_primary,0,0,0,,approved,reviewed,FDA indication is MAC NTM not CF. Off the CF map.
+cff-opelconazole,not_cf_primary,mixed,antifungal,N4,not_cf_primary,0,0,0,,phase_3,reviewed,No matching active CF-like trial. Fungal lung disease is broader than CF.
+cff-ap-pa02,listed_no_active_cf_trial,cf,phage,N4,therapeutic,0,0,0,,phase_2,reviewed,CFF Phase 2 listing with no matching active CF-like trial in this snapshot. Do not inflate phage crowding.
+cff-bx004,active_clinical,cf,phage,N4,therapeutic,1,1,1,NCT06998043,phase_2,reviewed,Recruiting Phase 2 P. aeruginosa phage.
+cff-cmtx-101,listed_no_active_cf_trial,cf,antimicrobial,N4,therapeutic,0,0,0,,phase_2,reviewed,No matching active CF-like trial.
+cff-ar-501,listed_no_active_cf_trial,cf,antimicrobial,N4,therapeutic,0,0,0,,phase_2,reviewed,No matching active CF-like trial (IV gallium is a separate academic protocol).
+cff-iv-gallium,active_clinical,cf,antimicrobial,N4,therapeutic,1,1,1,NCT04294043,phase_1,reviewed,Recruiting IV gallium for CF-NTM (ABATE).
+cff-pancrelipase,approved,cf,gi_nutrition,N6,therapeutic,1,0,1,,approved,reviewed,Approved PERT class. Residual need is disease not product absence.
+cff-relizorb,approved,cf,gi_nutrition,N6,therapeutic,1,0,0,,approved,reviewed,Approved in-line lipase cartridge. Crowding counted on pancrelipase as class representative.
+cff-aquadeks,standard_of_care,cf,gi_nutrition,N6,therapeutic,1,0,0,,standard_of_care,reviewed,Vitamin supplement SoC. Not whitespace.
+cff-bionic-pancreas,active_clinical,cf,metabolic_cfrd,N5,therapeutic,1,1,1,NCT06449677,phase_3,reviewed,Recruiting Phase 3 iLet in CFRD.
+cff-adrulipase,discontinued,cf,gi_nutrition,N6,therapeutic,0,0,0,,phase_2,reviewed,Non-porcine lipase historically stalled. No active CF trial.
+cff-ang003,active_clinical,cf,gi_nutrition,N6,therapeutic,1,1,1,NCT07450547,phase_2,reviewed,Recruiting Phase 2 GI/nutritional candidate.

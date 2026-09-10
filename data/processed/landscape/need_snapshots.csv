@@ -1,0 +1,9 @@
+need_id,category,subcategory,cited_2024_anchor,source_id,layer
+N1,Restoration of CFTR function,Mutation-agnostic genetic medicines,"Ineligible 2,434; ineligible 12+ with data 1,226; ~92% eligible after VTD; 87.5% of ages 12+ prescribed a modulator.",cff_registry_adr_2024,fact
+N2,Restoration of CFTR function,Eligible but not prescribed or intolerant,623 people aged 12+ in 2020 with no CFTRm prescription 2022-2024. Mixed reasons; not equivalent to N1.,cff_registry_adr_2024,fact
+N3,Pulmonary disease despite modulators,Residual lung disease exacerbations inflammation structural damage,IV PEx 12.1% (was 35.8% in 2009). Mean FEV1 89.1% overall vs 72.8% ages 40-49. 61 lung transplants (was 249 in 2019).,cff_registry_adr_2024,fact
+N4,Chronic infection,PA MRSA NTM biofilms AMR,PA 23.3% of cultured (was 52.0% in 2009). NTM 11.6% of mycobacterial cultures; 18.7% ages 60+.,cff_registry_adr_2024,fact
+N5,CF-related diabetes and metabolic disease,CFRD screening and treatment,CFRD 19.2% complications population; 29.3% of adults. Insulin-centric SoC; 16.4% with CFRD had no treatment noted.,cff_registry_adr_2024,fact
+N6,Gastrointestinal and nutritional disease,Malabsorption PERT CF liver disease,PERT 80.2%. Cirrhosis 2.7%; non-cirrhotic liver disease 3.5%; UDCA 10.1%.,cff_registry_adr_2024,fact
+N7,Aging with CF,Adult and older-adult complications,"Adults 61.6%; ages 60+ n=1,437; survival 65.4 years; adult anxiety 31.9%; adult depression 30.2%.",cff_registry_adr_2024,fact
+N8,Treatment burden and care delivery,Adherence adult care remote monitoring,Mean 3.0 clinic visits (4.3 in 2019). Dornase 80.6%; hypertonic saline 62.6% ages >=6.,cff_registry_adr_2024,fact
