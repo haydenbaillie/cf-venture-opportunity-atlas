@@ -18,12 +18,29 @@ export const COMPONENT_LABELS: Record<ComponentId, string> = {
   why_now: "Why now",
 };
 
+export const COMPONENT_HELP: Record<ComponentId, string> = {
+  patient_need: "How big and severe is the leftover problem?",
+  treatment_gap: "Do current options actually cover it?",
+  competitive_whitespace: "Are companies already working here?",
+  tractability: "Is the biology and endpoint even workable?",
+  economic: "Chronic costly burden — not a market-size overlay",
+  why_now: "Did something recently change?",
+};
+
 export const PRESET_LABELS: Record<string, string> = {
   default: "Default",
   patient_impact: "Patient impact",
   venture_creation: "Venture creation",
   commercial: "Commercial",
   custom: "Custom",
+};
+
+export const PRESET_HELP: Record<string, string> = {
+  default: "The ranking used in the written memo",
+  patient_impact: "Counts leftover burden more, emptiness less — restoration may move first",
+  venture_creation: "Counts emptiness and workability more",
+  commercial: "Counts payer logic and emptiness more",
+  custom: "You moved a slider; weights still add to 100%",
 };
 
 export type Weights = Record<ComponentId, number>;
